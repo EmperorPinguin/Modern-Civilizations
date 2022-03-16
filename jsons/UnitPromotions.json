@@ -1,0 +1,39 @@
+[
+
+{
+		"name": "The Sun Never Sets",
+		"uniques": ["[+2] Movement", "[+1] Sight" ]
+	},
+{
+		"name": "Desert Warrior",
+		"uniques": ["[+50]% Strength <when fighting in [Desert] tiles>"]
+	},
+{
+		"name": "Sisu",
+		"uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>"]
+	},
+{
+		"name": "Cannibal",
+		"uniques": ["Heals [50] damage if it kills a unit"]
+	},
+{
+		"name": "Heavy Charge",
+		"uniques": ["[+25]% Strength <when attacking>"]
+	},
+{
+		"name": "Quick Study II",
+		"uniques": ["[+100]% XP gained from combat"]
+	},
+{
+		"name": "Volunteer",
+		"uniques": ["[-100]% maintenance costs"]
+	},
+{
+		"name": "Feared Elephant",
+		"uniques": ["-10% combat strength for adjacent enemy units"]
+	},
+{
+		"name": "Streltsy ability",
+		"uniques": ["[+33]% Strength <when fighting in [Tundra] tiles>"]
+	},
+]
