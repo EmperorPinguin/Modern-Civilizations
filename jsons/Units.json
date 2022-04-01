@@ -36,24 +36,15 @@
 {
 		"name": "Spetsnaz",
 		"unitType": "Gunpowder",
-                "uniqueTo": "Russian Federation",
-                "replaces": "Marine",
+            "uniqueTo": "Russian Federation",
+            "replaces": "Marine",
 		"movement": 2,
-		"strength": 70,
+		"strength": 75,
 		"cost": 400,
 		"requiredTech": "Pharmaceuticals",
-		"promotions": ["Amphibious"],
-		"uniques": ["Normal vision when embarked", "Defense bonus when embarked", "[+20]% Strength <vs cities>", "[+20]% Strength <when fighting in [Friendly Land] tiles>"],
+		"promotions": ["Amphibious", "Besiege"],
+		"uniques": ["Normal vision when embarked", "Defense bonus when embarked"],
 		"attackSound": "shot"
-	},
-{
-		"name": "Frontiersman",
-		"unitType": "Civilian",
-                "uniqueTo": "Russian Federation",
-                "replaces": "Great General",
-		"uniques": ["Bonus for units in 2 tile radius 15%", "Can construct [Citadel]", "Ignores terrain cost",
-			"Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 2
 	},
 {
 		"name": "Koksan",
@@ -104,42 +95,26 @@
 		"attackSound": "shot"
 	},
 {
-		"name": "Pracinha",
-		"unitType": "Gunpowder",
-                "uniqueTo": "Brazil",
-                "replaces": "Infantry",
-		"movement": 2,
-		"strength": 70,
-		"cost": 375,
-		"requiredTech": "Plastics",
-		"upgradesTo": "Mechanized Infantry",
-		"obsoleteTech": "Mobile Tactics",
-		"promotions": ["Great Generals II"],
-		"uniques": ["[+20]% Strength <when attacking>"],
-		"attackSound": "shot"
-	},
-{
 		"name": "Arab Horseman", 
 		"replaces": "Cavalry",
 		"unitType": "Mounted",
 		"uniqueTo": "Saudi Arabia",
 		"movement": 5,
-		"strength": 34,
+		"strength": 35,
 		"cost": 225,
-                "requiredResource": "Horses",
+            "requiredResource": "Horses",
 		"requiredTech": "Military Science",
 		"obsoleteTech": "Combustion",
 		"upgradesTo": "Landship",
 		"promotions": ["Desert Warrior"],
-		"uniques": ["Can move after attacking","No defensive terrain bonus",
-			"[-33]% Strength <vs cities>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities>"],
 		"attackSound": "horse"	
 	},
 {
 		"name": "Sissi",
 		"unitType": "Ranged Gunpowder",
-                "uniqueTo": "Finland",
-                "replaces": "Machine Gun",
+            "uniqueTo": "Finland",
+            "replaces": "Machine Gun",
 		"range": 1,
 		"movement": 2,
 		"strength": 60,
@@ -165,23 +140,7 @@
 		"attackSound": "nonmetalhit"
          },
 {
-		"name": "Winged Hussar", 
-		"replaces": "Lancer",
-		"uniqueTo": "Poland",
-		"unitType": "Mounted",
-		"movement": 5,
-		"strength": 28,
-		"cost": 185,
-                "requiredResource": "Horses",
-		"requiredTech": "Metallurgy",
-		"obsoleteTech": "Combined Arms",
-		"upgradesTo": "Anti-Tank Gun",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "[-33]% Strength <vs cities>"],
-		"promotions": ["Shock I","Formation I","Heavy Charge"],
-		"attackSound": "horse"
-	},
-{
-		"name": "Longship",
+		"name": "Viking Ship",
 		"unitType": "Melee Water",
 		"replaces": "Caravel",
 		"uniqueTo": "Iceland",
@@ -192,25 +151,11 @@
 		"obsoleteTech": "Combustion",
 		"uniques": ["[+1] Sight", "May withdraw before melee ([80]%)"],
 		"hurryCostModifier": 30,
-                "promotions": ["Coastal Raider I"],
+            "promotions": ["Coastal Raider I", "Sentry"],
 		"attackSound": "cannon"
 	},
 {
-		"name": "Australian ANZAC",
-		"unitType": "Gunpowder",
-		"replaces": "Infantry",
-		"uniqueTo": "Australia",
-		"movement": 2,
-		"strength": 70,
-		"cost": 375,
-		"requiredTech": "Plastics",
-                "uniques": ["[+20]% Strength <when fighting in [Coastal] tiles>","Double movement in [Coast]","Double movement in [Ocean]"],
-		"upgradesTo": "Mechanized Infantry",
-		"obsoleteTech": "Mobile Tactics",
-		"attackSound": "shot"
-	},
-{
-		"name": "New Zealand ANZAC",
+		"name": "ANZAC",
 		"unitType": "Gunpowder",
 		"replaces": "Infantry",
 		"uniqueTo": "New Zealand",
@@ -218,7 +163,8 @@
 		"strength": 70,
 		"cost": 375,
 		"requiredTech": "Plastics",
-                "uniques": ["[+20]% Strength <when fighting in [Coastal] tiles>","Double movement in [Coast]","Double movement in [Ocean]"],
+            "promotions": ["Amphibious"],
+            "uniques": ["[+15]% Strength <when fighting in [Coastal] tiles>","Double movement in [Coast]","Double movement in [Ocean]"],
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot"
@@ -270,17 +216,6 @@
 		"attackSound": "cannon"
 	},
 {
-		"name": "Expat",
-		"unitType": "Civilian",
-		"replaces": "Settler",
-		"uniqueTo": "Singapore",
-		"movement": 2,
-		"cost": 106,
-		"uniques": ["Founds a new city", "Excess Food converted to Production when under construction",
-			"Requires at least [2] population", "Unbuildable"],
-		"hurryCostModifier": 20
-	},
-{
 		"name": "Asian Elephant",
 		"unitType": "Mounted",
 		"replaces": "Lancer",
@@ -295,7 +230,7 @@
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "elephant"
 	},
-	{
+{
 		"name": "T-72",
 		"unitType": "Armored",
 		"replaces": "Tank",
@@ -306,7 +241,7 @@
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Oil",
 		"upgradesTo": "Modern Armor",
-                "promotions": ["Amphibious"],
+            "promotions": ["Amphibious"],
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
