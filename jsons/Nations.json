@@ -141,8 +141,8 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "What do you want?",
 		"tradeRequest": "Better hurry, I may change my mind.",
-		"outerColor": [10, 40, 74],
-		"innerColor": [218, 218, 218],
+		"outerColor": [0, 47, 108],
+		"innerColor": [255, 255, 255],
 		"uniqueName": "Land of the Thousand Lakes",
 		"uniques": ["[+2 Culture] from every [Lakes]"],
 		"cities": ["Helsinki","Espoo","Tampere","Vantaa","Turku","Oulu","Lahti","Kuopio","Jyvaeskylae","Pori","Lappeenranta","Vaasa","Kotka","Joensuu","Haemeenlinna","Porvoo","Mikkeli","Hyvinge","Jaevenpaeae","Nurmijaervi","Rauma","Mellunkylae","Lohja","Vuosaari","Kokkola"]

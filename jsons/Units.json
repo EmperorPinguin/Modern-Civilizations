@@ -164,7 +164,7 @@
 		"cost": 375,
 		"requiredTech": "Plastics",
             "promotions": ["Amphibious"],
-            "uniques": ["[+15]% Strength <when fighting in [Coastal] tiles>","Double movement in [Coast]","Double movement in [Ocean]"],
+            "uniques": ["[+20]% Strength <when fighting in [Coastal] tiles>","Defense bonus when embarked"],
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot"
