@@ -33,6 +33,7 @@
                 "promotions": ["Formation I"],
 		"attackSound": "metalhit"
 	},
+/*
 {
 		"name": "Spetsnaz",
 		"unitType": "Gunpowder",
@@ -46,6 +47,7 @@
 		"uniques": ["Normal vision when embarked", "Defense bonus when embarked"],
 		"attackSound": "shot"
 	},
+*/
 {
 		"name": "Koksan",
 		"unitType": "Siege",
@@ -62,6 +64,7 @@
 			"Must set up to ranged attack","[-1] Sight","Ranged attacks may be performed over obstacles", "Never appears as a Barbarian unit"],
 		"attackSound": "artillery"
 	},
+/*
 {
 		"name": "Ship of the line",
 		"unitType": "Ranged Water",
@@ -110,6 +113,7 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities>"],
 		"attackSound": "horse"	
 	},
+*/
 {
 		"name": "Sissi",
 		"unitType": "Ranged Gunpowder",
@@ -139,6 +143,7 @@
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit"
          },
+/*
 {
 		"name": "Viking Ship",
 		"unitType": "Melee Water",
@@ -154,6 +159,7 @@
             "promotions": ["Coastal Raider I", "Sentry"],
 		"attackSound": "cannon"
 	},
+*/
 {
 		"name": "ANZAC",
 		"unitType": "Gunpowder",
@@ -177,12 +183,12 @@
 		"replaces": "Marine",
 		"uniqueTo": "South Korea",
 		"movement": 2,
-		"strength": 70,
+		"strength": 65,
 		"cost": 400,
 		"requiredTech": "Pharmaceuticals",
                 "upgradesTo": "Mechanized Infantry",
-		"promotions": ["Amphibious", "Quick Study II", "Great Generals II"],
-		"uniques": ["Normal vision when embarked", "Defense bonus when embarked"],
+		"promotions": ["Amphibious", "March"],
+		"uniques": ["Normal vision when embarked", "Defense bonus when embarked","[+25]% Strength <when Fighting in [Foreign land] tiles>"],
 		"attackSound": "shot"
 	},
 {
@@ -241,24 +247,9 @@
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Oil",
 		"upgradesTo": "Modern Armor",
-            "promotions": ["Amphibious"],
+            "promotions": ["Shock I"],
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
-	},
-{
-		"name": "DANA",
-		"unitType": "Siege",
-		"replaces": "Artillery",
-		"uniqueTo": "Czech Republic",
-		"movement": 2,
-		"strength": 21,
-		"rangedStrength": 28,
-		"range": 3,
-		"cost": 250,
-		"requiredTech": "Dynamite",
-		"upgradesTo": "Rocket Artillery",
-		"uniques": ["[+200]% Strength <vs cities>","No defensive terrain bonus",
-			"[-1] Sight","Ranged attacks may be performed over obstacles"]
 	},
 	{
 		"name": "DANA",

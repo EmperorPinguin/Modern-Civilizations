@@ -47,6 +47,7 @@
 		"cities": ["Zürich","Geneva","Basel","Lausanne","Bern","Winterthur","Lucerne","St. Gallen","Lugano","Biel",
 			"Thun","Bellinzona","Köniz","Fribourgh","La Chaux-de-Fonds","Schaffhausen","Chur","Vernier","Uster","Sion"]
 	},
+/*
 {
 		"name": "Russian Federation",
 		"leaderName": "Vladimir Putin",
@@ -73,6 +74,7 @@
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
 			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"]
 	},
+*/
 {
 		"name": "North Korea",
 		"leaderName": "Kim Il-sung",
@@ -99,6 +101,7 @@
 			"Hyesan","Songnim","Manp'o","P'yongsong","Hyesan-dong","Hyesan-dong","Hongwon","Rajin","Ongjin","Kilju","Chaeryong-up",
 			"Anju","Hoeryong","Sungho I-tong","Changyong","Sunan","Hwangju-up"]
 	},
+/*
 {
 		"name": "The British Empire",
 		"leaderName": "Victoria",
@@ -125,6 +128,7 @@
 			"Bradford","Montreal","West Ham","Lucknow","Kingston-upon-Hull","Nottingham","Rangoon","Salford","Newcastle-upun-Tyne","Leicester",
 			"Benares","Toronto","Delhi","Lahore","Kanpur","Singapore","Portsmouth"]
 	},
+*/
 {
 		"name": "Finland",
 		"leaderName": "Mannerheim",
@@ -146,6 +150,7 @@
 		"uniques": ["[+2 Culture] from every [Lakes]"],
 		"cities": ["Helsinki","Espoo","Tampere","Vantaa","Turku","Oulu","Lahti","Kuopio","Jyvaeskylae","Pori","Lappeenranta","Vaasa","Kotka","Joensuu","Haemeenlinna","Porvoo","Mikkeli","Hyvinge","Jaevenpaeae","Nurmijaervi","Rauma","Mellunkylae","Lohja","Vuosaari","Kokkola"]
 	},
+/*
 {
 		"name": "Saudi Arabia",
 		"leaderName": "Abdul Aziz al Saud",
@@ -170,6 +175,7 @@
 			"Buraydah","Khamis Mushait","Al Hufūf","Al Mubarraz","Hafar Al-Batin","Ha'il","Najrān","Al Jubayl","Abha","Yanbu",
 			"Khobar","Arar","Sakakah","Jizan","Qurayyat","Dhahran","Al Qaţīf","Al Bahah","Tārūt","Qal'at Bīshah","Ar Rass","Ash Shafā","Sayhāt"]
 	},
+*/
 {
 		"name": "Papua",
 		"leaderName": "Michael Somare",
@@ -196,6 +202,7 @@
 			"Jilotzingo","Tlapanaloya","Tultitan","Ecatepec","Coatepec","Chalchiuites","Chiauhita","Chapultepec",
 			"Itzapalapa","Ayotzinco","Iztapam"]
 	},
+/*
 {
 		"name": "Iceland",
 		"leaderName": "Ingólfur Arnarson",
@@ -219,6 +226,7 @@
 		"uniques": ["[+1 Culture] from every [Tundra] <after discovering [Drama and Poetry]>", "Double Happiness from Natural Wonders"], 
 		"cities": ["Reykjavik","Kopavogur","Hafnarfjoerdur","Akureyri","Gardabaer","Mosfellsbaer","Akranes","Selfoss","Isafjoerdur","Saudarkrokur","Egilsstadir","Borgarnes","Keflavik"]
 	},
+/*
 {
 		"name": "South Korea",
 		"leaderName": "Park Chung-hee",
@@ -238,11 +246,11 @@
 		"innerColor": [255,0,0],
 		"favoredReligion": "Confucianism",
 		"uniqueName": "Miracle on the Han River",
-                "uniques": ["[+100]% [Science] from every [Academy] <in this city> <during We Love The King Day>",
-"[+100]% [Gold] from every [Customs house] <in this city> <during We Love The King Day>",
-"[+100]% [Faith] from every [Holy site] <in this city> <during We Love The King Day>",
-"[+100]% [Production] from every [Manufactury] <in this city> <during We Love The King Day>",
-"[+100]% [Culture] from every [Landmark] <in this city> <during We Love The King Day>"],
+                "uniques": ["[+50]% [Science] from every [Academy] <in this city> <during We Love The King Day>",
+"[+50]% [Gold] from every [Customs house] <in this city> <during We Love The King Day>",
+"[+50]% [Faith] from every [Holy site] <in this city> <during We Love The King Day>",
+"[+50]% [Production] from every [Manufactury] <in this city> <during We Love The King Day>",
+"[+50]% [Culture] from every [Landmark] <in this city> <during We Love The King Day>"],
 		"cities": ["Seoul","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan",
 			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",
 			"Rason","Gyeongju","Chungju","Sacheon","Gimje","Anju"]
@@ -453,6 +461,7 @@
 			"Kermanshah","Rasht","Kerman","Orumiyeh","Zahedan","Ha'il","Hamadan","Azadshahr","Arak","Yazd",
 			"Ardabil","Abadan","Zanjan","Bandar Abbas","Sanandaj","Qazvin","Khorramshahr","Khorramabad","Khomeyni Shahr","Sari","Borujerd","Qarchak","Gorgan"]
 	},
+/*
 	{
 		"name": "Poland",
 		"leaderName": "Casimir III",
@@ -478,5 +487,6 @@
 			"Bytom","Olsztyn","Rzeszów","Ruda Śląska","Bielsko-Biala","Rybnik","Płock","Elbląg","Gorzów Wielkopolski","Opole",
 			"Łęczyca","Wałbrzych","Zielona Góra","Włocławek"]
 	},
+*/
 
 ]
