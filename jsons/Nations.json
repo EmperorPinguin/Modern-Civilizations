@@ -119,7 +119,7 @@
 	        "innerColor": [1, 33, 105],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Industrial Revolution",
-		"uniques": ["[+1 Production] from every specialist [in all cities]"],
+		"uniques": ["[+2 Production] from every [Manufactury]". "Empire enters Golden Age for researching Industrialization"],
 		"cities": ["London","Calcutta","Bombay","Glasgow","Liverpool","Cairo","Manchester","Birmingham","Madras","Melbourne",
 			"Sydney","Hyderabad","Leeds","Sheffield","Belfast","Bristol","Edinburgh","Alexandria","Dublin","Hong Kong",
 			"Bradford","Montreal","West Ham","Lucknow","Kingston-upon-Hull","Nottingham","Rangoon","Salford","Newcastle-upun-Tyne","Leicester",
@@ -131,7 +131,6 @@
 		"adjective": ["Finnish"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Cultural",
-
 		"startIntroPart1": " ",
 		"startIntroPart2": " ",
 		"declaringWar": "Prepare for war!",
@@ -153,7 +152,6 @@
 		"adjective": ["Saudi Arabian"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Cultural",
-
 		"startIntroPart1": " ",
 		"startIntroPart2": " ",
 		"declaringWar": "The world will be more beautiful without you. Prepare for war.",
@@ -227,14 +225,12 @@
 		"adjective": ["South Korean"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
-
 		"startIntroPart1": " ",
 		"startIntroPart2": " ",
 		"declaringWar": "Jip-hyun-jun (Hall of Worthies) will no longer tolerate your irksome behavior. We will liberate the citizens under your oppression even with force, and enlighten them!",
 		"attacked": "Foolish, miserable wretch! You will be crushed by this country's magnificent scientific power!",
 		"defeated": "Now the question is who will protect my people. A dark age has come.",
 		"introduction": "Welcome to the palace of Choson, stranger. I am the learned King Sejong, who looks after his great people.",
-
 		"neutralHello": "Hello.",
 		"hateHello": "Oh, it's you",
 		"tradeRequest": "We have many things to discuss and have much to benefit from each other.",
@@ -242,7 +238,11 @@
 		"innerColor": [255,0,0],
 		"favoredReligion": "Confucianism",
 		"uniqueName": "Miracle on the Han River",
-                "uniques": ["[+1 Production, +1 Food, +1 Gold] from every [Great Improvement]"],
+                "uniques": ["[+100]% [Science] from every [Academy] <in this city> <during We Love The King Day>",
+"[+100]% [Gold] from every [Customs house] <in this city> <during We Love The King Day>",
+"[+100]% [Faith] from every [Holy site] <in this city> <during We Love The King Day>",
+"[+100]% [Production] from every [Manufactury] <in this city> <during We Love The King Day>",
+"[+100]% [Culture] from every [Landmark] <in this city> <during We Love The King Day>"],
 		"cities": ["Seoul","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan",
 			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",
 			"Rason","Gyeongju","Chungju","Sacheon","Gimje","Anju"]
@@ -253,7 +253,6 @@
 		"adjective": ["Italian"],
                 "startBias": ["Hill"],
 		"preferredVictoryType": "Cultural",
-
 		"startIntroPart1": " ",
 		"startIntroPart2": " ",
 		"declaringWar": "Prepare for war!",
@@ -373,7 +372,7 @@
 		"innerColor": [255,191,36],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Dipavamsa",
-		"uniques": ["[+1 Food, +1 Culture] from every [Water Mill]","[+1 Food, +1 Culture] from every [Garden]"],
+		"uniques": ["[+1 Food, +1 Faith] from every [Water Mill]","[+1 Food, +1 Faith] from every [Garden]"],
 		"cities": ["Colombo","Dehiwala-Mount Lavinia","Moratuwa","Jaffna","Negombo","Pita Kotte","Sri Jayewardenepura Kotte","Kandy","Trincomalee","Kalmunai","Galle","Point Pedro","Batticaloa","Katunayaka","Valvedditturai","Matara","Battaramulla South","Dambulla","Maharagama","Kotikawatta","Anuradhapura","Vavuniya","Kolonnawa","Hendala","Ratnapura"]
 	},
 {
