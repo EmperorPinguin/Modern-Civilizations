@@ -188,7 +188,7 @@
 		"requiredTech": "Pharmaceuticals",
                 "upgradesTo": "Mechanized Infantry",
 		"promotions": ["Amphibious", "March"],
-		"uniques": ["Normal vision when embarked", "Defense bonus when embarked","[+25]% Strength <when Fighting in [Foreign land] tiles>"],
+		"uniques": ["Normal vision when embarked", "Defense bonus when embarked","[+25]% Strength <when fighting in [Foreign land] tiles>"],
 		"attackSound": "shot"
 	},
 {
