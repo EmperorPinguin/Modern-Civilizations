@@ -400,7 +400,7 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Nurly Zhol",
 		"uniques": ["[-33]% maintenance on roads & railroads", "Double quantity of [Coal] produced"],
-		"cities": ["Almaty","Karagandy","Shymkent","Taraz","Astana","Pavlodar","Ust-Kamenogorsk","Kyzyl-Orda","Semey",
+		"cities": ["Astana","Karagandy","Shymkent","Taraz","Astana","Pavlodar","Ust-Kamenogorsk","Kyzyl-Orda","Semey",
 			"Aktobe","Kostanay","Petropavl","Oral","Atyrau","Temirtau","Aktau","Kokshetau","Rudnyy","Ekibastuz","Eretria","Taldykorgan","Zhezqazghan","Zhanaozen","Turkestan","Balqash","Sartkand","Baikonur","Kentau","Ridder",
 			"Qulsary","Shchuchnik","Stepnogorsk","Zyryanovsk","Aksu","Dzhetygara","Soran","Talghar"]
 // Nur-Sultan is the current capital, but it is very small and Almaty is much more famous.
