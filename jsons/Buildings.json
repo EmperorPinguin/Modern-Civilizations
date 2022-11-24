@@ -113,9 +113,9 @@
 "[+1 Food] from every [Great Improvement] [in this city]",
 "[+1 Production, +1 Gold] from every [Water resource] [in this city]",
 "[+2 Science] from every [Scientist] <with [1] to [6] neighboring [Academy] tiles>",
-"[+2 Gold] from every [Merchant] <in this city> <within [1] tiles of a [Customs house]>",
-"[+2 Culture] from every [Artist] <in this city> <within [1] tiles of a [Landmark]>",
-"[+2 Production] from every [Engineer] <in this city> <within [1] tiles of a [Manufactury]>",
+"[+2 Gold] from every [Merchant] <with [1] to [6] neighboring [Customs house] tiles>",
+"[+2 Culture] from every [Artist] <with [1] to [6] neighboring [Landmark] tiles>",
+"[+2 Production] from every [Engineer] <with [1] to [6] neighboring [Engineer] tiles>",
 			"Must be next to [Coast]", "[+15]% Production when constructing [Water] units [in this city]"],
 		"requiredTech": "Navigation"
 	},
