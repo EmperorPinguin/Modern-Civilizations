@@ -107,16 +107,15 @@
                 "replaces": "Seaport",
                 "uniqueTo": "South Korea",
 		"hurryCostModifier": 25,
-		"maintenance": 3,
+		"maintenance": 0,
 		"requiredBuilding": "Harbor",
 		"uniques": [
-"[+1 Food] from [Great Improvement] tiles [in this city]",
+"[+2 Science] from [Academy] tiles [in this city]",
+"[+2 Gold] from [Customs house] tiles [in this city]",
+"[+2 Culture] from [Landmark] tiles [in this city]",
+"[+2 Production] from [Manufactury] tiles [in this city]",
 "[+1 Production, +1 Gold] from [Water resource] tiles [in this city]",
-"[+2 Science] from every [Scientist] <with [1] to [6] neighboring [Academy] tiles>",
-"[+2 Gold] from every [Merchant] <with [1] to [6] neighboring [Customs house] tiles>",
-"[+2 Culture] from every [Artist] <with [1] to [6] neighboring [Landmark] tiles>",
-"[+2 Production] from every [Engineer] <with [1] to [6] neighboring [Engineer] tiles>",
-			"Must be next to [Coast]", "[+15]% Production when constructing [Water] units [in this city]"],
+"Must be next to [Coast]", "[+15]% Production when constructing [Water] units [in this city]"],
 		"requiredTech": "Navigation"
 	},
 {
