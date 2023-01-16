@@ -97,6 +97,7 @@
 	        "uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"],
 		"attackSound": "shot"
 	},
+*/
 {
 		"name": "Arab Horseman", 
 		"replaces": "Cavalry",
@@ -113,7 +114,6 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities>"],
 		"attackSound": "horse"	
 	},
-*/
 {
 		"name": "Sissi",
 		"unitType": "Ranged Gunpowder",
