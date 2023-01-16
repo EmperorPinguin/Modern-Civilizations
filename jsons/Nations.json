@@ -534,7 +534,7 @@
 		"innerColor": [242, 24, 48],
                 "favoredReligion": "Christianity",
 		"uniqueName": "TBD",
-		"uniques": ["TBD"],
+		"uniques": ["[+15]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"],
 		"cities": ["Bucharest"]
 	},
 ]
