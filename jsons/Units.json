@@ -177,6 +177,7 @@
 	},
 //Australia and New Zealand should have the same name for their unit, but I haven't succeeded in doing it that way.
 //It would be nice if "Can be given to City-states for [Amount] Influence" is added as a unique.
+/*
 {
 		"name": "Blue Dragon",
 		"unitType": "Gunpowder",
@@ -191,6 +192,7 @@
 		"uniques": ["Normal vision when embarked", "Defense bonus when embarked","[+25]% Strength <when fighting in [Foreign land] tiles>"],
 		"attackSound": "shot"
 	},
+*/
 {
 		"name": "Redshirt",
 		"unitType": "Gunpowder",
@@ -297,4 +299,39 @@
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
 			"[-1] Sight","Ranged attacks may be performed over obstacles", "Never appears as a Barbarian unit"],
 		"attackSound": "artillery"
-	},]
+	},
+	{
+		"name": "Zaporozhian Cossack",
+		"unitType": "Mounted",
+		"replaces": "Lancer",
+		"uniqueTo": "Ukraine",
+		"movement": 5,
+		"strength": 25,
+		"cost": 185,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"promotions": ["[Cossack] ability","Formation I"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
+	},
+	{
+		"name": "Tachanka",
+		"unitType": "Ranged Gunpowder",
+		"replaces": "Gatling Gun",
+		"uniqueTo": "Ukraine",
+		"range": 1,
+		"movement": 4,
+		"strength": 30,
+		"rangedStrength": 36,
+		"cost": 225,
+		"requiredTech": "Industrialization",
+		"requiredResource": "Horses",
+		"upgradesTo": "Machine Gun",
+		"obsoleteTech": "Ballistics",
+		"attackSound": "machinegun"
+	},
+
+
+]
