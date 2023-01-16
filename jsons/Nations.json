@@ -150,7 +150,6 @@
 		"uniques": ["[+2 Culture] from every [Lakes]"],
 		"cities": ["Helsinki","Espoo","Tampere","Vantaa","Turku","Oulu","Lahti","Kuopio","Jyvaeskylae","Pori","Lappeenranta","Vaasa","Kotka","Joensuu","Haemeenlinna","Porvoo","Mikkeli","Hyvinge","Jaevenpaeae","Nurmijaervi","Rauma","Mellunkylae","Lohja","Vuosaari","Kokkola"]
 	},
-/*
 {
 		"name": "Saudi Arabia",
 		"leaderName": "Abdul Aziz al Saud",
@@ -175,7 +174,6 @@
 			"Buraydah","Khamis Mushait","Al Hufūf","Al Mubarraz","Hafar Al-Batin","Ha'il","Najrān","Al Jubayl","Abha","Yanbu",
 			"Khobar","Arar","Sakakah","Jizan","Qurayyat","Dhahran","Al Qaţīf","Al Bahah","Tārūt","Qal'at Bīshah","Ar Rass","Ash Shafā","Sayhāt"]
 	},
-*/
 {
 		"name": "Papua",
 		"leaderName": "Michael Somare",
@@ -411,7 +409,6 @@
 		"cities": ["Astana","Karagandy","Shymkent","Taraz","Astana","Pavlodar","Ust-Kamenogorsk","Kyzyl-Orda","Semey",
 			"Aktobe","Kostanay","Petropavl","Oral","Atyrau","Temirtau","Aktau","Kokshetau","Rudnyy","Ekibastuz","Eretria","Taldykorgan","Zhezqazghan","Zhanaozen","Turkestan","Balqash","Sartkand","Baikonur","Kentau","Ridder",
 			"Qulsary","Shchuchnik","Stepnogorsk","Zyryanovsk","Aksu","Dzhetygara","Soran","Talghar"]
-// Nur-Sultan is the current capital, but it is very small and Almaty is much more famous.
 	},
 {
 		"name": "Czech Republic",
@@ -488,5 +485,4 @@
 			"Łęczyca","Wałbrzych","Zielona Góra","Włocławek"]
 	},
 */
-
 ]
