@@ -478,7 +478,7 @@
 		"outerColor": [210, 38, 48],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Solidarność",
-		"uniques": ["[+25]% [Culture] from every [Factory]"],
+		"uniques": ["[+2 Culture] from every [Engineer]"],
 		"cities": ["Warsaw","Kraków","Łódź","Wrocław","Poznań","Gdańsk","Szczecin","Bydgoszcz","Lublin","Sopot",
 			"Katowice","Białystok","Gdynia","Świdnica","Częstochowa","Radom","Toruń","Kielce","Gliwice","Łowicz",
 			"Bytom","Olsztyn","Rzeszów","Ruda Śląska","Bielsko-Biala","Rybnik","Płock","Elbląg","Gorzów Wielkopolski","Opole",
