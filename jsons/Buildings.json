@@ -145,7 +145,7 @@
 		"specialistSlots": {"Merchant": 4},
 		"maintenance": 0,
 		"hurryCostModifier": 50,
-		"uniques": ["Can only be built [in capital]", "[+5 Gold] from [Great Improvement] tiles [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["Can only be built [in capital]", "[+50]% Yield from every [Great Improvement]", "Destroyed when the city is captured"],
 		"requiredTech": "Mathematics"
 	},
 	{
@@ -188,7 +188,18 @@
 		"hurryCostModifier": 10,
 		"maintenance": 0,
 		"requiredBuilding": "Colosseum",
-		"uniques": ["[+25]% great person generation [in this city]"],
+		"uniques": ["[+25]% Great Person generation [in this city]"],
 		"requiredTech": "Printing Press"
-	}
+	},
+	{
+		"name": "Painted Monastery",
+            "replaces": "Monastery",
+            "uniqueTo": "Romania",
+		"cost": 0,
+		"culture": 4,
+		"faith": 4,
+		"uniques": ["[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
+			"[+1 Culture, +1 Faith] from [Incense] tiles [in this city]",
+			"Unbuildable", "Hidden when religion is disabled", "Destroyed when the city is captured"]
+	},
 ]
