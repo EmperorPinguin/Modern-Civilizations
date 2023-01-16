@@ -515,4 +515,26 @@
 			"Berdyansk","Pavlohrad","Sloviansk"
 		],
 	},
+{
+		"name": "Romania",
+		"leaderName": "Vlad the Impaler",
+		"adjective": ["Romanian"],
+		"startBias": ["Hills"],
+		"preferredVictoryType": "Scientific",
+                "startIntroPart1": " ",
+		"startIntroPart2": " ",
+		"declaringWar": "This is war. The stakes are high.",
+		"attacked": "I presume you know what happens with rich folks who harass my people.",
+		"defeated": "You demon! You bloodsucking vampire! You will pay for this!",
+		"introduction": "Welcome, I am Vad III, also known as 'the impaler', please be nice.",
+		"neutralHello": "Greetings.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Better hurry, I may change my mind.",
+		"outerColor": [255, 255, 255],
+		"innerColor": [255, 0, 0],
+                "favoredReligion": "Christianity",
+		"uniqueName": "TBD",
+		"uniques": ["TBD"],
+		"cities": ["Bucharest"]
+	},
 ]
