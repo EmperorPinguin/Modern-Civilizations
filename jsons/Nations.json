@@ -168,8 +168,8 @@
 		"outerColor": [ 0,108,53],
 		"innerColor": [255,255,255],
 		"favoredReligion": "Islam",
-		"uniqueName": "The Persian Gulf",
-		"uniques": ["[+8 Gold] from every [Oil]", "Double quantity of [Oil] produced"],
+		"uniqueName": "Hajj",
+		"uniques": ["Religion naturally spreads to cities [+3] tiles away","[+1 Gold, +1 Culture, +1 Faith] from every [Mosque]"],
 		"cities": ["Riyadh","Jeddah","Mecca","Medina","Sulţānah","Kufah","Dammam","Ta'if","Tabuk","Al Kharj",
 			"Buraydah","Khamis Mushait","Al Hufūf","Al Mubarraz","Hafar Al-Batin","Ha'il","Najrān","Al Jubayl","Abha","Yanbu",
 			"Khobar","Arar","Sakakah","Jizan","Qurayyat","Dhahran","Al Qaţīf","Al Bahah","Tārūt","Qal'at Bīshah","Ar Rass","Ash Shafā","Sayhāt"]
