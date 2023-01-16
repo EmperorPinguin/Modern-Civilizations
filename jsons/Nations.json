@@ -194,11 +194,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Spirits of the Forest",
 		"uniques": ["[+2 Faith] [in all cities] <with [1] to [6] neighboring [unimproved] [Jungle] tiles>"],
-		"cities": ["Tenochtitlan","Teotihuacan","Tlatelolco","Texcoco","Tlaxcala","Calixtlahuaca","Xochicalco","Tlacopan",
-			"Atzcapotzalco","Tzintzuntzan","Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco",
-			"Ixtapaluca","Huexotla","Tepexpan","Tepetlaoxtoc","Chiconautla","Zitlaltepec","Coyotepec","Tequixquiac",
-			"Jilotzingo","Tlapanaloya","Tultitan","Ecatepec","Coatepec","Chalchiuites","Chiauhita","Chapultepec",
-			"Itzapalapa","Ayotzinco","Iztapam"] //city names need to be replaced with a list of Papuan tribes
+		"cities": ["Port Moresby"] //city names need to be replaced with a list of Papuan tribes
 	},
 /*
 {
