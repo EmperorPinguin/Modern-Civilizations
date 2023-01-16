@@ -49,19 +49,6 @@
 	},
 /*
 {
-		"name": "Sunni Mosque",
-                "replaces": "Temple",
-                "uniqueTo": "Saudi Arabia",
-                "happiness": 1,
-	        "culture": 2,  	
-                "faith": 3,
-		"requiredBuilding": "Shrine",
-		"maintenance": 2,
-		"hurryCostModifier": 25,
-		"requiredTech": "Philosophy",
-		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"]
-	},
-{
         "name": "The Industrial Revolution",
         "uniqueTo": "The British Empire",
         "cost": 0,
