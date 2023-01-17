@@ -529,8 +529,8 @@
 		"outerColor": [255, 230, 13],
 		"innerColor": [242, 24, 48],
                 "favoredReligion": "Christianity",
-		"uniqueName": "Romanian Indendence",
-		"uniques": ["[+15]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"],
+		"uniqueName": "Nihil Sine Deo",
+		"uniques": ["May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost"],
 		"cities": ["Bucharest"]
 	},
 ]
