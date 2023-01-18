@@ -95,11 +95,12 @@
                 "replaces": "Seaport",
                 "uniqueTo": "South Korea",
 		"hurryCostModifier": 25,
-		"maintenance": 3,
+		"maintenance": 0,
 		"requiredBuilding": "Harbor",
 		"uniques": [
 "[+4 Science] from [Academy] tiles [in this city]",
 "[+4 Gold] from [Customs house] tiles [in this city]",
+"[+4 Faith] from [Holy site] tiles [in this city]",
 "[+4 Culture] from [Landmark] tiles [in this city]",
 "[+4 Production] from [Manufactory] tiles [in this city]",
 "[+1 Production, +1 Gold] from [Water resource] tiles [in this city]",
@@ -149,6 +150,7 @@
 		"uniques": ["Can only be built [in capital]", "[+50]% Yield from every [Great Improvement]", "Destroyed when the city is captured"],
 		"requiredTech": "Mathematics"
 	},
+/*
 	{
 		"name": "Vatadage",
                 "replaces": "Temple",
@@ -161,13 +163,14 @@
 		"requiredTech": "Philosophy",
 		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"]
 	},
+*/
 	{
 		"name": "Tea Plantation",
                 "replaces": "Aqueduct",
                 "uniqueTo": "Sri Lanka",
 		"maintenance": 1,
 		"hurryCostModifier": 0,
-		"uniques": ["[40]% of food is carried over after population increases [in this city]", "Provides [1] [Tea]"],
+		"uniques": ["[40]% Food is carried over after population increases [in this city]", "Provides [1] [Tea]"],
 		"requiredTech": "Engineering"
 	},
 {
