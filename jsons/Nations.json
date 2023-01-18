@@ -247,7 +247,7 @@
 	},
 {
 		"name": "Italy",
-		"leaderName": "Victor Emanuel II",
+		"leaderName": "Victor Emmanuel II",
 		"adjective": ["Italian"],
                 "startBias": ["Hill"],
 		"preferredVictoryType": "Cultural",
@@ -260,8 +260,8 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "What do you want?",
 		"tradeRequest": "Better hurry, I may change my mind.",
-		"outerColor": [41, 87, 0],
-		"innerColor": [205, 205, 205],
+		"outerColor": [0, 140, 69],
+		"innerColor": [244, 249, 255],
 		"uniqueName": "Renaissance",
 		"uniques": ["[+15]% [Culture] [in all cities] <while the empire is happy>","Receive free [Great Artist] when you discover [Acoustics]"],
 		"cities": ["Roma","Milan","Naples","Turin","Florence","Genoa","Bari","Palermo","Cagliari","Catania","Brescia","Messina","Pisa","Bologna","Verona"]
