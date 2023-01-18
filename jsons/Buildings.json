@@ -111,7 +111,7 @@
 		"name": "Pizzeria",
                 "replaces": "Theatre",
                 "uniqueTo": "Italy",
-                "food": 1,
+                "food": 2,
 		"happiness": 3,
 		"hurryCostModifier": 10,
 		"maintenance": 0,

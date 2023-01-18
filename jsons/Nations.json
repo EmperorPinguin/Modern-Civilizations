@@ -247,7 +247,7 @@
 	},
 {
 		"name": "Italy",
-		"leaderName": "Victor Emmanuel II",
+		"leaderName": "Giuseppe Garibaldi",
 		"adjective": ["Italian"],
                 "startBias": ["Hill"],
 		"preferredVictoryType": "Cultural",
@@ -256,7 +256,7 @@
 		"declaringWar": "Prepare for war!",
 		"attacked": "You shall regret this!",
 		"defeated": "The victory is yours.",
-		"introduction": "Saluti, you walk upon the land of the former Roman Empire. I am Victor Emmanuel II, King Of Italy. Do you rule with benevolence, or absolute tyranny?",
+		"introduction": "Saluti, you walk upon the land of the former Roman Empire. I am Giuseppe Garibaldi, Father of Fatherlands of Italy. Do you rule with benevolence, or absolute tyranny?",
 		"neutralHello": "Greetings.",
 		"hateHello": "What do you want?",
 		"tradeRequest": "Better hurry, I may change my mind.",

@@ -193,19 +193,20 @@
 		"attackSound": "shot"
 	},
 */
-{
+	{
 		"name": "Redshirt",
-		"unitType": "Gunpowder",
-		"replaces": "Rifleman",
+		"unitType": "Ranged Gunpowder",
+		"replaces": "Gatling Gun",
 		"uniqueTo": "Italy",
+		"range": 1,
 		"movement": 2,
-		"strength": 35,
+		"strength": 34,
+		"rangedStrength": 34,
 		"cost": 225,
-		"requiredTech": "Rifling",
-		"obsoleteTech": "Replaceable Parts",
-		"promotions": ["Volunteer"],
-		"upgradesTo": "Great War Infantry",
-		"attackSound": "shot"
+		"requiredTech": "Industrialization",
+		"upgradesTo": "Machine Gun",
+		"obsoleteTech": "Ballistics",
+		"attackSound": "machinegun"
 	},
 {
 		"name": "Zamburak",
