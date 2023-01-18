@@ -240,9 +240,7 @@
 		"innerColor": [255,0,0],
 		"favoredReligion": "Confucianism",
 		"uniqueName": "Miracle on the Han River",
-                "uniques": ["[+25]% Production when constructing [Water Mill] buildings [in all cities]",
-"[+25]% Production when constructing [Garden] buildings [in all cities]",
-"[+25]% Production when constructing [Hydro Plant] buildings [in all cities]"],
+                "uniques": ["[+10]% Production when constructing [All] buildings [in all cities] <in [River] tiles>"],
 		"cities": ["Seoul","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan",
 			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",
 			"Rason","Gyeongju","Chungju","Sacheon","Gimje","Anju"]
@@ -452,6 +450,7 @@
 			"Kermanshah","Rasht","Kerman","Orumiyeh","Zahedan","Ha'il","Hamadan","Azadshahr","Arak","Yazd",
 			"Ardabil","Abadan","Zanjan","Bandar Abbas","Sanandaj","Qazvin","Khorramshahr","Khorramabad","Khomeyni Shahr","Sari","Borujerd","Qarchak","Gorgan"]
 	},
+/*
 	{
 		"name": "Poland",
 		"leaderName": "Casimir III",
@@ -477,6 +476,7 @@
 			"Bytom","Olsztyn","Rzeszów","Ruda Śląska","Bielsko-Biala","Rybnik","Płock","Elbląg","Gorzów Wielkopolski","Opole",
 			"Łęczyca","Wałbrzych","Zielona Góra","Włocławek"]
 	},
+*/
 {
 		"name": "Ukraine",
 		"leaderName": "Ivan Sirko",
