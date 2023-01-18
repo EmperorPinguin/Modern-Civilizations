@@ -1,6 +1,3 @@
-Thanks to the creators of RekMOD, from which I shamelessly took many things.
-Thanks to the people who's ideas are found on Civilization V Fandom, which I used for e.g. Kazachstan.
-Thanks to the creator of Ancient Civilizations, from which I also took some things e.g. the idea of adding a luxury to a building
 
 All images are from the Noun Project:
 Canada: by Kelsey Chisamore
@@ -61,3 +58,4 @@ Revolutionary Guard: by Xela Ub
 Pivovar: By Vallone Design
 Czech Republic: by Alvaro Cabrera
 Tea Plantation: by BomSymbols
+Painted Church: timisoara by Eucalyp

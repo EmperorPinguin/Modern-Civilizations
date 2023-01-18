@@ -196,7 +196,7 @@
 		"requiredTech": "Printing Press"
 	},
 	{
-		"name": "Painted Monastery",
+		"name": "Painted Church",
             "replaces": "Monastery",
             "uniqueTo": "Romania",
 		"cost": 0,
