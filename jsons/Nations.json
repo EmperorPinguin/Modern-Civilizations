@@ -371,8 +371,8 @@
 		"outerColor": [142,13,55],
 		"innerColor": [255,191,36],
 		"favoredReligion": "Buddhism",
-		"uniqueName": "Dipavamsa",
-		"uniques": ["[+1 Food, +1 Faith] from every [Water Mill]","[+1 Food, +1 Faith] from every [Garden]"],
+		"uniqueName": "Vatadage",
+		"uniques": ["Gain a free [Temple] [in all cities] <upon discovering [Theology]>",
 		"cities": ["Colombo","Dehiwala-Mount Lavinia","Moratuwa","Jaffna","Negombo","Pita Kotte","Sri Jayewardenepura Kotte","Kandy","Trincomalee","Kalmunai","Galle","Point Pedro","Batticaloa","Katunayaka","Valvedditturai","Matara","Battaramulla South","Dambulla","Maharagama","Kotikawatta","Anuradhapura","Vavuniya","Kolonnawa","Hendala","Ratnapura"]
 	},
 {
