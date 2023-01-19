@@ -266,7 +266,8 @@
 		"cost": 320,
 		"requiredTech": "Dynamite",
 		"upgradesTo": "Rocket Artillery",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus", "[-1] Sight","Ranged attacks may be performed over obstacles", "Never appears as a Barbarian unit"],
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus", "[-1] Sight","Never appears as a Barbarian unit"],
+	        "promotions": ["Indirect Fire"],
 		"attackSound": "artillery"
 	},
 	{
@@ -280,8 +281,7 @@
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
-		"promotions": ["Home Sweet Home"],
-		"uniques": ["[+1] Sight"]
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith]","Damage is ignored when determining unit Strength"],
 		"attackSound": "shot"
 	},
 {
@@ -296,9 +296,9 @@
 		"cost": 425,
 		"requiredTech": "Rocketry",
 		"requiredResource": "Aluminum",
-		"promotions": ["Extended Range"],
+		"promotions": ["Extended Range","Indirect Fire"],
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
-			"[-1] Sight","Ranged attacks may be performed over obstacles", "Never appears as a Barbarian unit"],
+			"Must set up to ranged attack","[-1] Sight", "Never appears as a Barbarian unit"],
 		"attackSound": "artillery"
 	},
 	{
