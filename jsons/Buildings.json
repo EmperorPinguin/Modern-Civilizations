@@ -206,4 +206,17 @@
 			"[+1 Culture, +1 Faith] from [Incense] tiles [in this city]",
 			"Unbuildable", "Hidden when religion is disabled", "Destroyed when the city is captured"]
 	},
+{
+		"name": "Safari Park",
+                "replaces": "Medical Lab",
+                "uniqueTo": "South Africa",
+		"requiredBuilding": "Hospital",
+		"maintenance": 0,
+		"requiredTech": "Pharmaceuticals",
+		"uniques": [
+"[+3 Gold, +3 Culture] from [Camp] tiles [in this city]",
+"[25]% Food is carried over after population increases [in this city]"
+
+]
+	},
 ]
