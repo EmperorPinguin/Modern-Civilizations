@@ -160,7 +160,7 @@ BuildingIcons/Vatadage
   index: -1
 BuildingIcons/Watchmaker
   rotate: false
-  xy: 836, 975
+  xy: 420, 351
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -181,21 +181,21 @@ NationIcons/Australia
   index: -1
 NationIcons/Brazil
   rotate: false
-  xy: 1044, 1075
+  xy: 420, 243
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Canada
   rotate: false
-  xy: 420, 243
+  xy: 628, 451
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Czech Republic
   rotate: false
-  xy: 628, 451
+  xy: 836, 659
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -209,14 +209,14 @@ NationIcons/Finland
   index: -1
 NationIcons/Iceland
   rotate: false
-  xy: 836, 679
+  xy: 1044, 887
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Iran
   rotate: false
-  xy: 836, 787
+  xy: 1044, 995
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
@@ -230,7 +230,7 @@ NationIcons/Italy
   index: -1
 NationIcons/Kazakhstan
   rotate: false
-  xy: 112, 4
+  xy: 1232, 1075
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -244,7 +244,7 @@ NationIcons/New Zealand
   index: -1
 NationIcons/North Korea
   rotate: false
-  xy: 1152, 1075
+  xy: 1898, 1799
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -265,21 +265,21 @@ NationIcons/Romania
   index: -1
 NationIcons/Russian Federation
   rotate: false
-  xy: 836, 571
+  xy: 1044, 779
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Saudi Arabia
   rotate: false
-  xy: 220, 4
+  xy: 1340, 1075
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Singapore
   rotate: false
-  xy: 1898, 1695
+  xy: 1898, 1691
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -293,28 +293,28 @@ NationIcons/South Africa
   index: -1
 NationIcons/South Korea
   rotate: false
-  xy: 1260, 1075
+  xy: 1448, 1075
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Sri Lanka
   rotate: false
-  xy: 1898, 1587
+  xy: 1898, 1583
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Switserland
   rotate: false
-  xy: 1368, 1075
+  xy: 1556, 1075
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The British Empire
   rotate: false
-  xy: 1476, 1075
+  xy: 1664, 1075
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -328,14 +328,14 @@ NationIcons/Ukraine
   index: -1
 ResourceIcons/Lapis Lazuli
   rotate: false
-  xy: 1898, 1803
+  xy: 112, 8
   size: 100, 96
   orig: 100, 96
   offset: 0, 0
   index: -1
 ResourceIcons/Tea
   rotate: false
-  xy: 1898, 1479
+  xy: 1898, 1475
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -480,65 +480,72 @@ UnitIcons/Voortrekker
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Zamburak
+UnitIcons/Wallachian Horseman
   rotate: false
-  xy: 420, 351
+  xy: 836, 975
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Zaporozhian Cossack
+UnitIcons/Zamburak
   rotate: false
   xy: 628, 559
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+UnitIcons/Zaporozhian Cossack
+  rotate: false
+  xy: 836, 767
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Cannibal
   rotate: false
-  xy: 1044, 1017
+  xy: 528, 293
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Desert Warrior
   rotate: false
-  xy: 528, 293
+  xy: 628, 393
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Heavy Charge
   rotate: false
-  xy: 528, 293
+  xy: 628, 393
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Sisu
   rotate: false
-  xy: 528, 293
+  xy: 628, 393
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Feared Elephant
   rotate: false
-  xy: 628, 393
+  xy: 736, 501
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/The Sun Never Sets
   rotate: false
-  xy: 736, 501
+  xy: 836, 601
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Volunteer
   rotate: false
-  xy: 944, 729
+  xy: 944, 709
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
