@@ -21,7 +21,7 @@
 		"innerColor": [255, 0, 0],
                 "favoredReligion": "Christianity",
 		"uniqueName": "From Sea to Sea",
-		"uniques": ["[+3 Culture] [in all cities] <with [1] to [6] neighboring [Tundra] tiles>"],
+		"uniques": ["[+1 Culture] from every [Tundra]"],
 		"cities": ["Ottawa","Toronto","Montreal","Vancouver","Calgary","Edmonton","Winnipeg","Quebec City","Hamilton","Kitchener","Laval","London","Victoria","Halifax","Oshawa","Windsor","Saskatoon","St. Catharines","Regina","St. John's","Kelowna"]
 	},
 {
@@ -101,34 +101,6 @@
 			"Hyesan","Songnim","Manp'o","P'yongsong","Hyesan-dong","Hyesan-dong","Hongwon","Rajin","Ongjin","Kilju","Chaeryong-up",
 			"Anju","Hoeryong","Sungho I-tong","Changyong","Sunan","Hwangju-up"]
 	},
-/*
-{
-		"name": "The British Empire",
-		"leaderName": "Victoria",
-		"adjective": ["British"],
-		"startBias": ["Coast"],
-		"preferredVictoryType": "Scientific",
-
-		"startIntroPart1": " ",
-		"startIntroPart2": " ",
-		"declaringWar": "By the grace of God, your days are numbered.",
-		"attacked": "We shall never surrender.",
-		"defeated": "You have triumphed over us. The day is yours.",
-		"introduction": "We are pleased to meet you.",
-		"neutralHello": "Hello, again.",
-		"hateHello": "Oh, it's you!",
-		"tradeRequest": "Would you be interested in a trade agreement with us?",
-	        "outerColor": [200, 16, 46],
-	        "innerColor": [1, 33, 105],
-		"favoredReligion": "Christianity",
-		"uniqueName": "The Industrial Revolution",
-		"uniques": ["[+2 Production] from every [Manufactury]". "Empire enters Golden Age for researching Industrialization"],
-		"cities": ["London","Calcutta","Bombay","Glasgow","Liverpool","Cairo","Manchester","Birmingham","Madras","Melbourne",
-			"Sydney","Hyderabad","Leeds","Sheffield","Belfast","Bristol","Edinburgh","Alexandria","Dublin","Hong Kong",
-			"Bradford","Montreal","West Ham","Lucknow","Kingston-upon-Hull","Nottingham","Rangoon","Salford","Newcastle-upun-Tyne","Leicester",
-			"Benares","Toronto","Delhi","Lahore","Kanpur","Singapore","Portsmouth"]
-	},
-*/
 {
 		"name": "Finland",
 		"leaderName": "Mannerheim",
