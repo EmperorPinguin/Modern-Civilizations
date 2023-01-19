@@ -531,4 +531,26 @@
 		"uniques": ["May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost"],
 		"cities": ["Bucharest"]
 	},
+{
+		"name": "South Africa",
+		"leaderName": "Nelson Mandela",
+		"adjective": ["South African"],
+		"startBias": ["Plains", "Desert"],
+		"preferredVictoryType": "Scientific",
+                "startIntroPart1": " ",
+		"startIntroPart2": " ",
+		"declaringWar": "Prepare for war!",
+		"attacked": "You shall regret this!",
+		"defeated": "The victory is yours.",
+		"introduction": "Welcome to South AFrica",
+		"neutralHello": "Greetings.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Better hurry, I may change my mind.",
+		"outerColor": [255, 255, 255],
+		"innerColor": [255, 0, 0],
+                "favoredReligion": "Christianity",
+		"uniqueName": "Witwatersrand",
+		"uniques": ["[+3 Gold] from every [Gold Ore]", "Double quantity of [Gold Ore] produced"],
+		"cities": ["Cape Town"]
+	},
 ]
