@@ -442,7 +442,7 @@
 		"hateHello": "Oh, it's you.",
 		"tradeRequest": "Come forth, let's do business.",
 		"outerColor": [ 35,159,64],
-		"innerColor": [218,0,0],
+		"innerColor": [254,187, 38],
 		"favoredReligion": "Islam",
 		"uniqueName": "Theocracy",
 		"uniques": ["[Faith] cost of purchasing items in cities [-25]%"],
