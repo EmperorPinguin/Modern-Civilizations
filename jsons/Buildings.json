@@ -139,7 +139,7 @@
 		"requiredTech": "Currency"
 	},	
 {
-		"name": "Bussiness Centre",
+		"name": "Merlion Statue",
                 "replaces": "Courthouse",
                 "uniqueTo": "Singapore",
                 "cityStrength": 10,
@@ -181,7 +181,7 @@
 		"requiredResource": "Aluminum",
 		"cost": 360,
 		"requiredBuilding": "Factory",
-		"uniques": ["[+33]% [Science] [in this city]", "[+100]% Production when constructing [Spaceship part] units [in this city]"],
+		"uniques": ["[+25]% [Science] [in this city]", "[+100]% Production when constructing [Spaceship part] units [in this city]"],
 		"requiredTech": "Robotics"
 	},
 {
@@ -205,5 +205,18 @@
 		"uniques": ["[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
 			"[+1 Culture, +1 Faith] from [Incense] tiles [in this city]",
 			"Unbuildable", "Hidden when religion is disabled", "Destroyed when the city is captured"]
+	},
+{
+		"name": "Safari Park",
+                "replaces": "Medical Lab",
+                "uniqueTo": "South Africa",
+		"requiredBuilding": "Hospital",
+		"maintenance": 0,
+		"requiredTech": "Pharmaceuticals",
+		"uniques": [
+"[+3 Gold, +3 Culture] from [Camp] tiles [in this city]",
+"[25]% Food is carried over after population increases [in this city]"
+
+]
 	},
 ]
