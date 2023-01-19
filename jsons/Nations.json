@@ -550,7 +550,7 @@
 		"innerColor": [42, 82, 204],
                 "favoredReligion": "Christianity",
 		"uniqueName": "Witwatersrand",
-		"uniques": ["[+3 Gold] from every [Gold Ore]", "Double quantity of [Gold Ore] produced"],
+		"uniques": ["[+100]% [Gold] from every [Gold Ore]", "Double quantity of [Gold Ore] produced"],
 		"cities": ["Cape Town"]
 	},
 ]
