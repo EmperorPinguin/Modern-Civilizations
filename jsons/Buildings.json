@@ -221,7 +221,7 @@
 	},
 	{ 
                 "name": "Saudi Aramco Facility",
-                "replaces": "Stock Enxchange",
+                "replaces": "Stock Exchange",
                 "uniqueTo": "Saudi Arabia",
 		"requiredNearbyImprovedResources": ["Oil"],
  		"gold": 3, 		
