@@ -208,25 +208,24 @@
 	},
 {
 		"name": "Safari Park",
-                "replaces": "Medical Lab",
-                "uniqueTo": "South Africa",
+		"replaces": "Medical Lab",
+		"uniqueTo": "South Africa",
 		"requiredBuilding": "Hospital",
 		"maintenance": 0,
-		"requiredTech": "Pharmaceuticals",
+		"requiredTech": "Biology",
 		"uniques": [
 "[+3 Gold, +3 Culture] from [Camp] tiles [in this city]",
 "[25]% Food is carried over after population increases [in this city]"]
 	},
-	{ 
-		"name": "Saudi Aramco Facility",
-		"replaces": "Stock Exchange",
+{
+		"name": "Aramco Facility",
+		"replaces": "Medical Lab",
 		"uniqueTo": "Saudi Arabia",
- 		"gold": 3, 		
-		"percentStatBonus": {"gold": 25}, 		
-		"specialistSlots": {"Merchant": 2}, 		
-		"hurryCostModifier": 15, 		
-		"requiredBuilding": "Bank",
-		"uniques": ["Must be next to [Desert]","[+3 Food, +3 Production, +3 Gold] from [Oil well] tiles [in this city]"], 		
-		"requiredTech": "Biology" 	
-         },
+		"requiredBuilding": "Hospital",
+		"maintenance": 0,
+		"requiredTech": "Biology",
+		"uniques": [
+"Must be next to [Desert]","[+3 Production, +3 Gold] from [Oil well] tiles [in this city]",
+"[25]% Food is carried over after population increases [in this city]"]
+	},
 ]
