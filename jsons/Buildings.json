@@ -215,21 +215,18 @@
 		"requiredTech": "Pharmaceuticals",
 		"uniques": [
 "[+3 Gold, +3 Culture] from [Camp] tiles [in this city]",
-"[25]% Food is carried over after population increases [in this city]"
-
-]
+"[25]% Food is carried over after population increases [in this city]"]
 	},
 	{ 
-                "name": "Saudi Aramco Facility",
-                "replaces": "Stock Exchange",
-                "uniqueTo": "Saudi Arabia",
-		"requiredNearbyImprovedResources": ["Oil"],
+		"name": "Saudi Aramco Facility",
+		"replaces": "Stock Exchange",
+		"uniqueTo": "Saudi Arabia",
  		"gold": 3, 		
-                "percentStatBonus": {"gold": 25}, 		
-                "specialistSlots": {"Merchant": 2}, 		
-                "hurryCostModifier": 15, 		
-                "requiredBuilding": "Bank",
-	        "uniques": ["[+3 Food, +3 Production, +3 Gold] from [Oil well] tiles [in this city] <in [Desert] tiles>"], 		
-                "requiredTech": "Biology" 	
+		"percentStatBonus": {"gold": 25}, 		
+		"specialistSlots": {"Merchant": 2}, 		
+		"hurryCostModifier": 15, 		
+		"requiredBuilding": "Bank",
+		"uniques": ["Must be next to [Desert]","[+3 Food, +3 Production, +3 Gold] from [Oil well] tiles [in this city]"], 		
+		"requiredTech": "Biology" 	
          },
 ]
