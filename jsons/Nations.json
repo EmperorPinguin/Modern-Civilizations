@@ -500,8 +500,8 @@
 		"outerColor": [255, 153, 52],
 		"innerColor": [42, 82, 204],
                 "favoredReligion": "Christianity",
-		"uniqueName": "Witwatersrand",
-		"uniques": ["[+100]% [Gold] from every [Gold Ore]", "Double quantity of [Gold Ore] produced"],
-		"cities": ["Cape Town"]
+		"uniqueName": "Mineral Exports",
+		"uniques": ["[+100]% [Gold] from every [Gold Ore]","[+100]% [Gold] from every [Silver]","[+100]% [Gold] from every [Gems]","Double quantity of [Gold Ore] produced","Double quantity of [Silver] produced","Double quantity of [Gems] produced"],
+		"cities": ["Cape Town","Pretoria","Bloemfontein","Johannesburg","Durban","Gqeberha","Vereeniging","Soshanguve","East London","Pietermaritzburg"]
 	},
 ]
