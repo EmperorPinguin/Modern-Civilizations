@@ -141,7 +141,7 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Islam",
 		"uniqueName": "Hajj",
-		"uniques": ["Religion naturally spreads to cities [+3] tiles away","[+1 Gold, +1 Culture, +1 Faith] from every [Mosque]"],
+		"uniques": ["Religion naturally spreads to cities [+3] tiles away","[+1 Faith] from every [Oasis]"],
 		"cities": ["Riyadh","Jeddah","Mecca","Medina","Sulţānah","Kufah","Dammam","Ta'if","Tabuk","Al Kharj",
 			"Buraydah","Khamis Mushait","Al Hufūf","Al Mubarraz","Hafar Al-Batin","Ha'il","Najrān","Al Jubayl","Abha","Yanbu",
 			"Khobar","Arar","Sakakah","Jizan","Qurayyat","Dhahran","Al Qaţīf","Al Bahah","Tārūt","Qal'at Bīshah","Ar Rass","Ash Shafā","Sayhāt"]
