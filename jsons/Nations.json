@@ -222,7 +222,7 @@
 		"leaderName": "Giuseppe Garibaldi",
 		"adjective": ["Italian"],
                 "startBias": ["Hill"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Scientific",
 		"startIntroPart1": " ",
 		"startIntroPart2": " ",
 		"declaringWar": "Prepare for war!",
