@@ -440,7 +440,7 @@
 		"declaringWar": "Your lands will soon be mine, prepare for war!",
 		"attacked": "Have you declared war on us? This was a huge mistake on your part, prepare to be destroyed!",
 		"defeated": "You have destroyed our once great civilization. History will not look kindly upon you.",
-		"introduction": "Greetings, stranger! I am Ivan Sirko, Vataman of Zaporizhian Cossacks. Gaze in awe on the majesty that is our great civilization!",
+		"introduction": "Greetings, stranger! I am Ivan Sirko, Vataman of Zaporizhian Cossacks. Gaze in awe on the majesty that is our great nation!",
 		"neutralHello": "Hello!",
 		"hateHello": "You again! What did you want?",
 		"tradeRequest": "Well, how is my proposal to you?",
@@ -448,7 +448,7 @@
 		"innerColor": [255,215,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Chernozem",
-		"uniques": ["[+1 Gold] from every [Wheat]","Double quantity of [Horses] produced","[-25]% Culture cost of natural border growth [in all cities]"],
+		"uniques": ["[+2 Gold] from every [Wheat]","Double quantity of [Horses] produced","[-25]% Culture cost of natural border growth [in all cities]"],
 		"cities": [
 			"Kyiv","Kharkiv","Dnipropetrovsk","Odesa","Donetsk","Zaporizhia",
                   "Lviv","Kryvyi Rih","Mykolaiv","Mariupol","Luhansk","Makiivka","Simferopol",
