@@ -291,7 +291,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
-		"attackSound": "shot"
+		"attackSound": "machinegun"
 	},
 {
 		"name": "Wallachian Horseman",
