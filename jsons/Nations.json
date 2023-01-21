@@ -166,7 +166,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Spirits of the Forest",
 		"uniques": ["[+2 Faith] [in all cities] <with [1] to [6] neighboring [unimproved] [Jungle] tiles>"],
-		"cities": ["Port Moresby"] //city names need to be replaced with a list of Papuan tribes
+		"cities": ["Port Moresby","Lae","Arawa","Mount Hagen","Popondetta","Madang","Kokopo","Mendi","Kimbe","Goroka"] //city names should be replaced with a list of Papuan tribes
 	},
 /*
 {
@@ -373,7 +373,7 @@
 		"innerColor": [254,197,12],
 		"favoredReligion": "Islam",
 		"uniqueName": "Nurly Zhol",
-		"uniques": ["[-33]% maintenance on roads & railroads", "Double quantity of [Coal] produced"],
+		"uniques": ["[-33]% maintenance on road & railroads", "Double quantity of [Coal] produced"],
 		"cities": ["Astana","Karagandy","Shymkent","Taraz","Astana","Pavlodar","Ust-Kamenogorsk","Kyzyl-Orda","Semey",
 			"Aktobe","Kostanay","Petropavl","Oral","Atyrau","Temirtau","Aktau","Kokshetau","Rudnyy","Ekibastuz","Eretria","Taldykorgan","Zhezqazghan","Zhanaozen","Turkestan","Balqash","Sartkand","Baikonur","Kentau","Ridder",
 			"Qulsary","Shchuchnik","Stepnogorsk","Zyryanovsk","Aksu","Dzhetygara","Soran","Talghar"]
@@ -479,8 +479,8 @@
                 "favoredReligion": "Christianity",
 		"uniqueName": "Nihil Sine Deo",
 		"uniques": ["May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost"],
-		"cities": ["Bucharest", "Cluj-Napoca","Timisoara","Lasi","Constanta","Craiova","Brasov","Galati","Ploiesti","Oradea",
-                       "Braila","Arad","Pitesti","Sibiu","Bacau","Targu Mures","Baia Mare","Buzau","Botosani","Satu Mare"]
+		"cities": ["Bucharest", "Cluj-Napoca","Timișoara","Lași","Constanța","Craiova","Brașov","Galați","Ploiești","Oradea",
+                       "Brăila","Arad","Pitești","Sibiu","Băcau","Târgu Mureș","Baia Mare","Buzău","Botoșani","Satu Mare"]
 	},
 {
 		"name": "South Africa",
@@ -499,7 +499,7 @@
 		"tradeRequest": "Better hurry, I may change my mind.",
 		"outerColor": [255, 153, 52],
 		"innerColor": [42, 82, 204],
-                "favoredReligion": "Christianity",
+		"favoredReligion": "Christianity",
 		"uniqueName": "Mineral Exports",
 		"uniques": ["[+100]% [Gold] from every [Gold Ore]","[+100]% [Gold] from every [Silver]","[+100]% [Gold] from every [Gems]","Double quantity of [Gold Ore] produced","Double quantity of [Silver] produced","Double quantity of [Gems] produced"],
 		"cities": ["Cape Town","Pretoria","Bloemfontein","Johannesburg","Durban","Gqeberha","Vereeniging","Soshanguve","East London","Pietermaritzburg"]

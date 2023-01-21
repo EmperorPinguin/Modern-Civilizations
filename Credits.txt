@@ -38,7 +38,7 @@ Redshirts: by Deemak Daksina
 Volunteer: by Adrien Coquet
 New Zealand: by Vectors Market
 Sheep Farm: by Orin zuu
-Afghanistan: by Olga
+Afghanistan: Pomegranate by Olga
 Zamburak: by Laymik
 Silk road: by Syed Saad Imram
 Singapore: by P Thanga Vignesh
@@ -69,3 +69,5 @@ MATADOR: Portable Anti Tank Launcher by usubaliev
 Finland: flag of Finland by Olena Panasovska
 Italy: olive by Clockwise
 Wallachian Horseman: Knight by Gregor Cresnar
+Camel Cavalry: Camel by richad
+Oil Facility: Oil Refinery by ProSymbols

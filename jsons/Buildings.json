@@ -218,7 +218,7 @@
 "[25]% Food is carried over after population increases [in this city]"]
 	},
 {
-		"name": "Saudi Aramco Facility",
+		"name": "Oil Facility",
 		"replaces": "Medical Lab",
 		"uniqueTo": "Saudi Arabia",
 		"requiredBuilding": "Hospital",
