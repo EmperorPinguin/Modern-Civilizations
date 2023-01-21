@@ -300,7 +300,7 @@
 		"innerColor": [211,32,17],
 		"favoredReligion": "Islam",
 		"uniqueName": "Graveyard of Empires",
-		"uniques": ["[+20]% Strength <when fighting units from a Civilization with more Cities than you>"],
+		"uniques": ["[+25]% Strength <for [{Military} {Land}] units> <when fighting units from a Civilization with more Cities than you>"],
 		"cities": ["Kabul","Kandahār","Herāt","Mazār-e Sharīf","Kunduz","Jalālābād","Lashkar Gāh","Maīmanah","Shibirghān","Khōst","Ghaznī","Pul-e Khumrī","Tāluqān","Balkh","Farāh","Baghlān","Gardēz","Faīẕābād","Bāmyān","Chārīkār","Sar-e Pul","Zaranj","Asadābād","Maīdān Shahr","Kōṯah-ye 'As̲h̲rō","Khulm","Khānābād","Barakī Barak","Karukh","Mehtar Lām","Fayrōz Kōh","Andkhōy","Qalāt","Tarīn Kōṯ","Maḩmūd-e Rāqī","Qal'ah-ye Now","Aībak", "Pul-e 'Alam","Sharan"]
 	},
 {
