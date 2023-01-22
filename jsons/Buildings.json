@@ -215,7 +215,8 @@
 		"requiredTech": "Flight",
 		"uniques": [
 "[+3 Gold, +3 Culture] from [Camp] tiles [in this city]",
-"[25]% Food is carried over after population increases [in this city]"]
+"[25]% Food is carried over after population increases [in this city]",
+"Unlocked at Flight"]
 	},
 {
 		"name": "Oil Facility",
@@ -226,6 +227,7 @@
 		"requiredTech": "Flight",
 		"uniques": [
 "Must be next to [Desert]","[+3 Production, +3 Gold] from [Oil well] tiles [in this city]",
-"[25]% Food is carried over after population increases [in this city]"]
+"[25]% Food is carried over after population increases [in this city]",
+"Unlocked at Flight"]
 	},
 ]
