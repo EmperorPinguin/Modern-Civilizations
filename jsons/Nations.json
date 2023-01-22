@@ -209,7 +209,7 @@
 		"hateHello": "Oh, it's you",
 		"tradeRequest": "I'd like to offer you a trade agreement.",
 		//"outerColor": [0,71,160],
-		"outerColor": [0,113,255],
+		"outerColor": [0,167,255],
 		"innerColor": [255,0,0],
 		//"innerColor": [205,46,58],
 		"favoredReligion": "Confucianism",
