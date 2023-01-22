@@ -70,7 +70,7 @@
 		"name": "Treehouse",
                 "replaces": "Aqueduct",
                 "uniqueTo": "Papua",
-                "happiness": 1,
+                "happiness": 2,
 		"maintenance": 0,
                 "cost": 50,
 		"hurryCostModifier": 0,
