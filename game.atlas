@@ -6,552 +6,545 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Bussiness Centre
   rotate: false
-  xy: 212, 85
+  xy: 212, 628
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Chaebol
   rotate: false
-  xy: 994, 1125
+  xy: 1344, 490
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Cosmodrome
   rotate: false
-  xy: 994, 917
+  xy: 1552, 423
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Dacha
   rotate: false
-  xy: 1546, 17
+  xy: 420, 421
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Geothermal Plant
   rotate: false
-  xy: 420, 85
+  xy: 212, 420
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Maple Farm
   rotate: false
-  xy: 1742, 1217
+  xy: 1252, 282
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Merlion Statue
+  rotate: false
+  xy: 1460, 215
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Oil Facility
   rotate: false
-  xy: 4, 781
+  xy: 4, 1512
   size: 500, 500
   orig: 500, 500
-  offset: 0, 0
-  index: -1
-NationIcons/Afghanistan
-  rotate: false
-  xy: 980, 362
-  size: 437, 437
-  orig: 437, 437
-  offset: 0, 0
-  index: -1
-NationIcons/Finland
-  rotate: false
-  xy: 764, 1324
-  size: 209, 209
-  orig: 209, 209
-  offset: 0, 0
-  index: -1
-NationIcons/Italy
-  rotate: false
-  xy: 1425, 659
-  size: 430, 430
-  orig: 430, 430
-  offset: 0, 0
-  index: -1
-NationIcons/New Zealand
-  rotate: false
-  xy: 1272, 1097
-  size: 462, 462
-  orig: 462, 462
-  offset: 0, 0
-  index: -1
-NationIcons/Saudi Arabia
-  rotate: false
-  xy: 980, 4
-  size: 350, 350
-  orig: 350, 350
-  offset: 0, 0
-  index: -1
-NationIcons/South Africa
-  rotate: false
-  xy: 4, 293
-  size: 480, 480
-  orig: 480, 480
-  offset: 0, 0
-  index: -1
-NationIcons/South Korea
-  rotate: false
-  xy: 1272, 1567
-  size: 474, 474
-  orig: 474, 474
-  offset: 0, 0
-  index: -1
-NationIcons/South Korea (inverse colors)
-  rotate: false
-  xy: 512, 807
-  size: 474, 474
-  orig: 474, 474
-  offset: 0, 0
-  index: -1
-NationIcons/Ukraine
-  rotate: false
-  xy: 1425, 225
-  size: 426, 426
-  orig: 426, 426
-  offset: 0, 0
-  index: -1
-NationIcons/download (27)
-  rotate: false
-  xy: 4, 1289
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/ANZAC
-  rotate: false
-  xy: 1754, 1841
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitIcons/Arab Horseman
-  rotate: false
-  xy: 4, 85
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitIcons/Asian Elephant
-  rotate: false
-  xy: 981, 1333
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitIcons/Blue Dragon
-  rotate: false
-  xy: 1754, 1633
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitIcons/Camel Cavalry
-  rotate: false
-  xy: 512, 339
-  size: 460, 460
-  orig: 460, 460
-  offset: 0, 0
-  index: -1
-UnitIcons/DANA
-  rotate: false
-  xy: 1338, 17
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitIcons/Fajr-5
-  rotate: false
-  xy: 1202, 889
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitIcons/Frontiersman
-  rotate: false
-  xy: 1754, 17
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitIcons/Koksan
-  rotate: false
-  xy: 628, 131
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitIcons/MATADOR
-  rotate: false
-  xy: 1754, 1425
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitIcons/Voortrekker
-  rotate: false
-  xy: 764, 1541
-  size: 500, 500
-  orig: 500, 500
-  offset: 0, 0
-  index: -1
-
-game2.png
-size: 2048, 1024
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-BuildingIcons/Merlion Statue
-  rotate: false
-  xy: 4, 816
-  size: 200, 200
-  orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Outback Station 
   rotate: false
-  xy: 212, 816
+  xy: 420, 213
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Painted Church
   rotate: false
-  xy: 4, 400
+  xy: 628, 213
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Pivovar
   rotate: false
-  xy: 420, 816
+  xy: 212, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Pizzeria
   rotate: false
-  xy: 4, 192
+  xy: 836, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Safari Park
   rotate: false
-  xy: 212, 192
+  xy: 1668, 7
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Sauna
   rotate: false
-  xy: 420, 400
+  xy: 420, 5
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Sheep Farm
   rotate: false
-  xy: 628, 608
+  xy: 628, 5
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Silk Road
   rotate: false
-  xy: 836, 816
+  xy: 4, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Statue
   rotate: false
-  xy: 836, 608
+  xy: 1044, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Sunni Mosque
+NationIcons/Afghanistan
   rotate: false
-  xy: 1044, 816
-  size: 200, 200
-  orig: 200, 200
+  xy: 472, 1067
+  size: 437, 437
+  orig: 437, 437
   offset: 0, 0
   index: -1
-BuildingIcons/Tea Plantation
+NationIcons/Finland
   rotate: false
-  xy: 1252, 816
-  size: 200, 200
-  orig: 200, 200
+  xy: 1702, 839
+  size: 209, 209
+  orig: 209, 209
   offset: 0, 0
   index: -1
-BuildingIcons/Treehouse
+NationIcons/Italy
   rotate: false
-  xy: 836, 192
-  size: 200, 200
-  orig: 200, 200
+  xy: 472, 629
+  size: 430, 430
+  orig: 430, 430
   offset: 0, 0
   index: -1
-BuildingIcons/Vatadage
+NationIcons/New Zealand
   rotate: false
-  xy: 1252, 608
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-BuildingIcons/Watchmaker
-  rotate: false
-  xy: 1252, 400
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-NationIcons/Australia
-  rotate: false
-  xy: 1460, 500
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Canada
-  rotate: false
-  xy: 1668, 708
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Czech Republic
-  rotate: false
-  xy: 1876, 916
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Iceland
-  rotate: false
-  xy: 192, 84
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Iran
-  rotate: false
-  xy: 4, 4
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-NationIcons/Kazakhstan
-  rotate: false
-  xy: 300, 84
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/North Korea
-  rotate: false
-  xy: 516, 84
-  size: 100, 100
-  orig: 100, 100
+  xy: 1020, 1062
+  size: 462, 462
+  orig: 462, 462
   offset: 0, 0
   index: -1
 NationIcons/Papua
   rotate: false
-  xy: 212, 608
+  xy: 4, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Romania
   rotate: false
-  xy: 628, 816
+  xy: 1460, 7
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-NationIcons/Russian Federation
+NationIcons/Saudi Arabia
   rotate: false
-  xy: 624, 84
-  size: 100, 100
-  orig: 100, 100
+  xy: 1344, 698
+  size: 350, 350
+  orig: 350, 350
   offset: 0, 0
   index: -1
-NationIcons/Singapore
+NationIcons/South Africa
   rotate: false
-  xy: 1252, 212
-  size: 180, 180
-  orig: 180, 180
+  xy: 1020, 1532
+  size: 480, 480
+  orig: 480, 480
   offset: 0, 0
   index: -1
-NationIcons/Sri Lanka
+NationIcons/South Korea
   rotate: false
-  xy: 732, 84
-  size: 100, 100
-  orig: 100, 100
+  xy: 1508, 1538
+  size: 474, 474
+  orig: 474, 474
   offset: 0, 0
   index: -1
-NationIcons/Switserland
+NationIcons/South Korea (inverse colors)
   rotate: false
-  xy: 840, 84
-  size: 100, 100
-  orig: 100, 100
+  xy: 1508, 1056
+  size: 474, 474
+  orig: 474, 474
   offset: 0, 0
   index: -1
-ResourceIcons/Lapis Lazuli
+NationIcons/Ukraine
   rotate: false
-  xy: 408, 88
-  size: 100, 96
-  orig: 100, 96
+  xy: 910, 628
+  size: 426, 426
+  orig: 426, 426
   offset: 0, 0
   index: -1
-ResourceIcons/Tea
+UnitIcons/ANZAC
   rotate: false
-  xy: 948, 84
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 836
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Arab Horseman
+  rotate: false
+  xy: 212, 836
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Asian Elephant
+  rotate: false
+  xy: 1702, 631
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Blue Dragon
+  rotate: false
+  xy: 4, 628
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Camel Cavalry
+  rotate: false
+  xy: 4, 1044
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+UnitIcons/DANA
+  rotate: false
+  xy: 1760, 423
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Fajr-5
+  rotate: false
+  xy: 628, 421
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Frontiersman
+  rotate: false
+  xy: 4, 420
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Koksan
+  rotate: false
+  xy: 836, 420
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/MATADOR
+  rotate: false
+  xy: 1044, 420
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Mounties
   rotate: false
-  xy: 4, 608
+  xy: 1668, 215
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Redshirt
   rotate: false
-  xy: 212, 400
+  xy: 1044, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Revolutionary Guard
   rotate: false
-  xy: 420, 608
+  xy: 1252, 74
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Sissi
   rotate: false
-  xy: 420, 192
+  xy: 212, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Spetsnaz
   rotate: false
-  xy: 628, 400
+  xy: 836, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+UnitIcons/Voortrekker
+  rotate: false
+  xy: 512, 1512
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Sunni Mosque
+  rotate: false
+  xy: 4, 308
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Tea Plantation
+  rotate: false
+  xy: 420, 308
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Treehouse
+  rotate: false
+  xy: 420, 100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Vatadage
+  rotate: false
+  xy: 628, 100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Watchmaker
+  rotate: false
+  xy: 1044, 308
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Australia
+  rotate: false
+  xy: 1836, 408
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Canada
+  rotate: false
+  xy: 1944, 408
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Czech Republic
+  rotate: false
+  xy: 1836, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Iceland
+  rotate: false
+  xy: 1944, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Iran
+  rotate: false
+  xy: 1460, 328
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationIcons/Kazakhstan
+  rotate: false
+  xy: 1460, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/North Korea
+  rotate: false
+  xy: 1568, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Russian Federation
+  rotate: false
+  xy: 1676, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Singapore
+  rotate: false
+  xy: 1648, 328
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationIcons/Sri Lanka
+  rotate: false
+  xy: 1252, 108
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+NationIcons/Switserland
+  rotate: false
+  xy: 1452, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Lapis Lazuli
+  rotate: false
+  xy: 1252, 4
+  size: 100, 96
+  orig: 100, 96
+  offset: 0, 0
+  index: -1
+ResourceIcons/Tea
+  rotate: false
+  xy: 1452, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Swiss Mercenary
   rotate: false
-  xy: 628, 192
+  xy: 4, 100
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/T-72
   rotate: false
-  xy: 836, 400
+  xy: 212, 308
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Tachanka
   rotate: false
-  xy: 1044, 608
+  xy: 212, 100
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Tribal Warrior
   rotate: false
-  xy: 1044, 400
+  xy: 628, 308
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Viking Ship
   rotate: false
-  xy: 1460, 816
+  xy: 836, 308
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Wallachian Horseman
   rotate: false
-  xy: 1044, 192
+  xy: 836, 100
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Zamburak
   rotate: false
-  xy: 1460, 608
+  xy: 1044, 100
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Zaporozhian Cossack
   rotate: false
-  xy: 1668, 816
+  xy: 1252, 308
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Cannibal
   rotate: false
-  xy: 1460, 442
+  xy: 4, 42
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Desert Warrior
   rotate: false
-  xy: 1568, 550
+  xy: 1560, 162
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Heavy Charge
   rotate: false
-  xy: 1568, 550
+  xy: 1560, 162
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Sisu
   rotate: false
-  xy: 1568, 550
+  xy: 1560, 162
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Feared Elephant
   rotate: false
-  xy: 1668, 650
+  xy: 1360, 50
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/The Sun Never Sets
   rotate: false
-  xy: 1776, 758
+  xy: 62, 42
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Volunteer
   rotate: false
-  xy: 1876, 858
+  xy: 1560, 104
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
