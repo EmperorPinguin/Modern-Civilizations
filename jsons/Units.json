@@ -206,7 +206,7 @@
 		"replaces": "Tank",
 		"uniqueTo": "Kazakhstan",
 		"movement": 5,
-		"strength": 75,
+		"strength": 80,
 		"cost": 375,
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Oil",
