@@ -33,21 +33,6 @@
                 "promotions": ["Formation I"],
 		"attackSound": "metalhit"
 	},
-/*
-{
-		"name": "Spetsnaz",
-		"unitType": "Gunpowder",
-            "uniqueTo": "Russian Federation",
-            "replaces": "Marine",
-		"movement": 2,
-		"strength": 75,
-		"cost": 400,
-		"requiredTech": "Pharmaceuticals",
-		"promotions": ["Amphibious", "Besiege"],
-		"uniques": ["Normal vision when embarked", "Defense bonus when embarked"],
-		"attackSound": "shot"
-	},
-*/
 {
 		"name": "Koksan",
 		"unitType": "Siege",
@@ -109,23 +94,6 @@
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit"
          },
-/*
-{
-		"name": "Viking Ship",
-		"unitType": "Melee Water",
-		"replaces": "Caravel",
-		"uniqueTo": "Iceland",
-		"movement": 4,
-		"strength": 20,
-		"cost": 120,
-		"requiredTech": "Compass",
-		"obsoleteTech": "Combustion",
-		"uniques": ["[+1] Sight", "May withdraw before melee ([80]%)"],
-		"hurryCostModifier": 30,
-            "promotions": ["Coastal Raider I", "Sentry"],
-		"attackSound": "cannon"
-	},
-*/
 {
 		"name": "ANZAC",
 		"unitType": "Gunpowder",
