@@ -92,7 +92,7 @@
 		"cost": 350,
 		"requiredTech": "Ballistics",
 		"upgradesTo": "Mechanized Infantry",
-		"uniques": ["Ignores terrain cost", "No movement cost to pillage", "[+50]% Strength <vs [Armor] units>"],
+		"uniques": ["Ignores terrain cost", "[+50]% Strength <vs [Armored] units>", "[+50]% Strength <when fighting units from a Civilization with more Cities than you>"],
 		"attackSound": "machinegun"
 	},
 {

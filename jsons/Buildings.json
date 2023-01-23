@@ -62,7 +62,7 @@
                 "uniqueTo": "Finland",
                 "cost": 75,
 		"happiness": 2,
-		"uniques": ["[+1 Food] from [Camp] tiles [in this city]", "Must be next to [Tundra]"],
+		"uniques": ["[+2 Food] from [Camp] tiles [in this city]", "Must be next to [Tundra]"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Trapping"
 	},

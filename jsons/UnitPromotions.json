@@ -26,11 +26,11 @@
 		"name": "Quick Study II",
 		"uniques": ["[+100]% XP gained from combat"]
 	},
-*/
 {
 		"name": "Volunteer",
 		"uniques": ["[-100]% maintenance costs"]
 	},
+*/
 {
 		"name": "Feared Elephant",
 		"uniques": ["-10% combat strength for adjacent enemy units"]
