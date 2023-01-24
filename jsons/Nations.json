@@ -272,7 +272,7 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Mini-size Superstate",
-		"uniques": ["[+200]% [Food] from City-States", "Cannot build [Settler] units"],
+		"uniques": ["[+200]% [Food] from City-States","[+50]% Yield from every [Great Improvement]","Cannot build [Settler] units"],
 		"cities": ["Singapore"]
 	},
 {

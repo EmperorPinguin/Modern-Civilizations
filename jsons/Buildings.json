@@ -22,7 +22,7 @@
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 50},
 		"requiredBuilding": "Library",
-		"uniques": ["Must be next to [Mountain]", "[+25]% [Gold] [in this city]"],
+		"uniques": ["Must be next to [Mountain]", "[+25]% [Gold] [in this city]","+1 Engineer slot"],
 		"requiredTech": "Astronomy"
 	},
 {
@@ -109,11 +109,10 @@
                 "replaces": "Courthouse",
                 "uniqueTo": "Singapore",
                 "cityStrength": 10,
-		"percentStatBonus": {"gold": 100},
 		"specialistSlots": {"Merchant": 4},
 		"maintenance": 0,
 		"hurryCostModifier": 50,
-		"uniques": ["Can only be built [in capital]", "[+50]% Yield from every [Great Improvement]", "Destroyed when the city is captured"],
+		"uniques": ["[+100]% [Gold] [in this city]","+4 Merchant slots","Can only be built [in capital]","Destroyed when the city is captured"],
 		"requiredTech": "Mathematics"
 	},
 	{
