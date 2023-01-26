@@ -213,7 +213,7 @@
 		"innerColor": [192,192,192],
 		"favoredReligion": "Christianity",
 		"uniqueName": "National Parks",
-		"uniques": ["[+2 Culture] from every [Rare feature]", "[+2 Culture] from every [Natural Wonder]"],
+		"uniques": ["[+1 Culture] from every [Forest] <after discovering [Construction]>"],
 		"cities": ["Wellington","Auckland","Christchurch","Manukau City","Waitakere","North Shore","Hamilton","Dunedin","Tauranga","Lower Hutt",
 			"Palmerston North","Rotorua","Hastings","Nelson","Napier","Mangere","Porirua","Whangarei","New Plymouth",
 			"Invercargill","Wanganui","Upper Hutt","Gisborne","Ashburton","Papakura","Timaru","Blenheim","Paraparaumu","Taupo"]
