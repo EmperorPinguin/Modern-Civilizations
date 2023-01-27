@@ -45,6 +45,7 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Trapping"
 	},
+/*
 {
 		"name": "Treehouse",
                 "replaces": "Aqueduct",
@@ -56,6 +57,7 @@
 		"uniques": ["[+1 Food] from [Forest] tiles [in this city]", "[+1 Food] from [Jungle] tiles [in this city]"],
 		"requiredTech": "Construction"
 	},
+*/
 {
 		"name": "Chaebol",
                 "replaces": "Seaport",
@@ -180,5 +182,16 @@
 "Must be next to [Desert]","[+3 Production, +3 Gold] from [Oil well] tiles [in this city]",
 "[25]% Food is carried over after population increases [in this city]",
 "Unlocked at Flight"]
+	},
+{
+		"name": "Chocolatier",
+		"replaces": "Theatre",
+		"uniqueTo": "Belgium",
+		"happiness": 3,
+		"hurryCostModifier": 10,
+		"maintenance": 2,
+		"requiredBuilding": "Colosseum",
+		"uniques": ["Provides [1] [Pralines]"],
+		"requiredTech": "Printing Press"
 	},
 ]

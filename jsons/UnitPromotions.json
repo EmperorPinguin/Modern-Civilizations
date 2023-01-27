@@ -12,12 +12,10 @@
 		"name": "Sisu",
 		"uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>"]
 	},
-*/
 {
 		"name": "Cannibal",
 		"uniques": ["Heals [50] damage if it kills a unit"]
 	},
-/*
 {
 		"name": "Heavy Charge",
 		"uniques": ["[+25]% Strength <when attacking>"]
@@ -33,7 +31,7 @@
 */
 {
 		"name": "Feared Elephant",
-		"uniques": ["-10% combat strength for adjacent enemy units"]
+		"uniques": ["[-10]% Strength for enemy [{Military} {Land}] units in adjacent [All] tiles"]
 	},
 /*
 {
@@ -41,4 +39,8 @@
 		"uniques": ["[+33]% Strength <when fighting in [Tundra] tiles>"]
 	},
 */
+{
+		"name": "Chasseur ability",
+		"uniques": ["Can move immediately once bought","[+1] Movement","Ignores Zone of Control"]
+	},
 ]

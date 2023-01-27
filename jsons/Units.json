@@ -80,6 +80,7 @@
 		"uniques": ["Ignores terrain cost", "[+50]% Strength <vs [Armored] units>", "[+50]% Strength <when fighting units from a Civilization with more Cities than you>"],
 		"attackSound": "machinegun"
 	},
+/*
 {
 		"name": "Tribal Warrior",
 		"unitType": "Sword",
@@ -94,6 +95,7 @@
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit"
          },
+*/
 {
 		"name": "ANZAC",
 		"unitType": "Gunpowder",
@@ -304,6 +306,22 @@
 		"promotions": ["Besiege"],
 		"uniques": ["[+100]% Strength <vs [Armored] units>", "Never appears as a Barbarian unit"],
 		"attackSound": "machinegun"
+	},
+	{
+		"name": "Chasseur",
+		"unitType": "Ranged Gunpowder",
+		"replaces": "Gatling Gun",
+		"uniqueTo": "Belgium",
+		"range": 1,
+		"movement": 2,
+		"strength": 30,
+		"rangedStrength": 30,
+		"cost": 225,
+		"requiredTech": "Industrialization",
+		"upgradesTo": "Machine Gun",
+		"obsoleteTech": "Ballistics",
+		"promotions": ["Chasseur ability"],
+		"attackSound": "shot"
 	},
 
 ]

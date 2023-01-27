@@ -118,6 +118,7 @@
 			"Buraydah","Khamis Mushait","Al Hufūf","Al Mubarraz","Hafar Al-Batin","Ha'il","Najrān","Al Jubayl","Abha","Yanbu",
 			"Khobar","Arar","Sakakah","Jizan","Qurayyat","Dhahran","Al Qaţīf","Al Bahah","Tārūt","Qal'at Bīshah","Ar Rass","Ash Shafā","Sayhāt"]
 	},
+/*
 {
 		"name": "Papua",
 		"leaderName": "Michael Somare",
@@ -140,6 +141,7 @@
 		"uniques": ["[+2 Faith] [in all cities] <with [1] to [6] neighboring [unimproved] [Jungle] tiles>"],
 		"cities": ["Port Moresby","Lae","Arawa","Mount Hagen","Popondetta","Madang","Kokopo","Mendi","Kimbe","Goroka"] //city names should be replaced with a list of Papuan tribes
 	},
+*/
 {
 		"name": "South Korea",
 		"leaderName": "Park Chung-hee",
@@ -452,5 +454,27 @@
 		"uniqueName": "Mineral Exports",
 		"uniques": ["[+100]% [Gold] from every [Gold Ore]","[+100]% [Gold] from every [Silver]","[+100]% [Gold] from every [Gems]","Double quantity of [Gold Ore] produced","Double quantity of [Silver] produced","Double quantity of [Gems] produced"],
 		"cities": ["Cape Town","Pretoria","Bloemfontein","Johannesburg","Durban","Gqeberha","Vereeniging","Soshanguve","East London","Pietermaritzburg"]
+	},
+{
+		"name": "Belgium",
+		"leaderName": "Albert I",
+		"adjective": ["Belgian"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+		"declaringWar": "Prepare for war!",
+		"attacked": "You shall regret this! To the trench, proud Belgian!",
+		"defeated": "The victory is yours.",
+		"introduction": "Greetings to you. I am Albert I of Belgium.",
+		"neutralHello": "Greetings.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Would you be interested in a trade agreement with us? We've got chocolate.",
+		"outerColor": [253,218,36],
+		"innerColor": [0,0,0],
+		"uniqueName": "Federal Science Institutes",
+		"uniques": ["[+1 Production] from every [Engineer]","[+1 Gold] from every [Merchant]","[+1 Science] from every [Scientist]","[+1 Culture] from every [Artist]"],
+		"cities": ["Brussels","Antwerp","Ghent","Charleroi","Bruges","Liege","Ypres","Schaerbeek","Leuven","Namur","Mons","Mechelen","Anderlecht"]
 	},
 ]

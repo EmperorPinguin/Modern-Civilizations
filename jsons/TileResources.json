@@ -10,4 +10,9 @@
 		"resourceType": "Luxury",
 		"gold": 1,
 	},
+	{
+		"name": "Pralines",
+		"resourceType": "Luxury",
+		"gold": 1,
+	},
 ]	
