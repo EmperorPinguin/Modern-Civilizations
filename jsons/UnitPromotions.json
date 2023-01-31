@@ -12,10 +12,12 @@
 		"name": "Sisu",
 		"uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>"]
 	},
+*/
 {
 		"name": "Cannibal",
 		"uniques": ["Heals [50] damage if it kills a unit"]
 	},
+/*
 {
 		"name": "Heavy Charge",
 		"uniques": ["[+25]% Strength <when attacking>"]

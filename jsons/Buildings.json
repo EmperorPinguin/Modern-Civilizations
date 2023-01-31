@@ -45,19 +45,16 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Trapping"
 	},
-/*
 {
 		"name": "Treehouse",
-                "replaces": "Aqueduct",
-                "uniqueTo": "Papua",
-                "happiness": 2,
-		"maintenance": 0,
-                "cost": 50,
-		"hurryCostModifier": 0,
-		"uniques": ["[+1 Food] from [Forest] tiles [in this city]", "[+1 Food] from [Jungle] tiles [in this city]"],
-		"requiredTech": "Construction"
+		"replaces": "Walls",
+		"uniqueTo": "Papua",
+		"cityStrength": 5,
+		"cityHealth": 50,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured","[+1 Faith] from [Jungle] tiles [in this city]"]
 	},
-*/
 {
 		"name": "Chaebol",
                 "replaces": "Seaport",

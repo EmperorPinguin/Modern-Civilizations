@@ -80,22 +80,20 @@
 		"uniques": ["Ignores terrain cost", "[+50]% Strength <vs [Armored] units>", "[+50]% Strength <when fighting units from a Civilization with more Cities than you>"],
 		"attackSound": "machinegun"
 	},
-/*
 {
 		"name": "Tribal Warrior",
 		"unitType": "Sword",
-                "uniqueTo": "Papua",
-                "replaces": "Warrior",
+		"uniqueTo": "Papua",
+		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 9,
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-                "promotions": ["Cannibal", "Woodsman"],
+		"promotions": ["Cannibal", "Woodsman"],
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit"
          },
-*/
 {
 		"name": "ANZAC",
 		"unitType": "Gunpowder",

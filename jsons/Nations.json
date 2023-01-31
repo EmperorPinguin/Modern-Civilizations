@@ -118,7 +118,6 @@
 			"Buraydah","Khamis Mushait","Al Hufūf","Al Mubarraz","Hafar Al-Batin","Ha'il","Najrān","Al Jubayl","Abha","Yanbu",
 			"Khobar","Arar","Sakakah","Jizan","Qurayyat","Dhahran","Al Qaţīf","Al Bahah","Tārūt","Qal'at Bīshah","Ar Rass","Ash Shafā","Sayhāt"]
 	},
-/*
 {
 		"name": "Papua",
 		"leaderName": "Michael Somare",
@@ -137,11 +136,10 @@
 		"outerColor": [30,0,0],
 		"innerColor": [255,215,0],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Spirits of the Forest",
-		"uniques": ["[+2 Faith] [in all cities] <with [1] to [6] neighboring [unimproved] [Jungle] tiles>"],
+		"uniqueName": "Kokoda Trail",
+		"uniques": ["No Maintenance costs for improvements in [Forest] tiles","No Maintenance costs for improvements in [Jungle] tiles"],
 		"cities": ["Port Moresby","Lae","Arawa","Mount Hagen","Popondetta","Madang","Kokopo","Mendi","Kimbe","Goroka"] //city names should be replaced with a list of Papuan tribes
 	},
-*/
 {
 		"name": "South Korea",
 		"leaderName": "Park Chung-hee",
