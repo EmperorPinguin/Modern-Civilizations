@@ -51,6 +51,7 @@
 		"uniqueTo": "Papua",
 		"cityStrength": 5,
 		"cityHealth": 50,
+		"cost": 65,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured","[+1 Faith] from [Jungle] tiles [in this city]"]

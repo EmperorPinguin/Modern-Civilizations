@@ -81,7 +81,7 @@
 		"attackSound": "machinegun"
 	},
 {
-		"name": "Tribal Warrior",
+		"name": "Cannibal",
 		"unitType": "Sword",
 		"uniqueTo": "Papua",
 		"replaces": "Warrior",
