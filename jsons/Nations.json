@@ -91,7 +91,7 @@
 		"outerColor": [0, 47, 108],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Land of the Thousand Lakes",
-		"uniques": ["[+2 Culture] from every [Lakes]","[+15]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"],
+		"uniques": ["[+2 Culture] from every [Lakes]"],
 		"cities": ["Helsinki","Espoo","Tampere","Vantaa","Turku","Oulu","Lahti","Kuopio","Jyvaeskylae","Pori","Lappeenranta","Vaasa","Kotka","Joensuu","Haemeenlinna","Porvoo","Mikkeli","Hyvinge","Jaevenpaeae","Nurmijaervi","Rauma","Mellunkylae","Lohja","Vuosaari","Kokkola"]
 	},
 {
