@@ -121,10 +121,11 @@
 		"uniqueTo": "Sri Lanka",
 		"hurryCostModifier": 25,
 		"maintenance": 0,
+		"cost": 250,
 		"requiredBuilding": "Harbor",
-		"uniques": ["[+1 Production, +1 Gold] from [Water resource] tiles [in this city]","[+2 Gold, +2 Culture] from [Whales] tiles [in this city]",
-			"Must be next to [Coast]","[10]% Food is carried over after population increases [in this city]"],
-		"requiredTech": "Navigation"
+		"uniques": ["Unlocked at Flight","[+1 Production, +1 Gold] from [Water resource] tiles [in this city]","[+4 Gold, +2 Culture] from [Whales] tiles [in this city]",
+			"Must be next to [Coast]","[20]% Food is carried over after population increases [in this city]"],
+		"requiredTech": "Flight"
 	},
 /*
 	{
