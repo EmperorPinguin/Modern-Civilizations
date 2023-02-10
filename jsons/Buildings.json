@@ -15,15 +15,14 @@
 	},
 {
 		"name": "Watchmaker",
-                "replaces": "Observatory",
-                "uniqueTo": "Switserland",
+		"replaces": "Windmill",
+		"uniqueTo": "Switserland",
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
 		"maintenance": 0,
-                "specialistSlots": {"Engineer": 1},
-		"hurryCostModifier": 15,
-		"percentStatBonus": {"science": 50},
-		"requiredBuilding": "Library",
-		"uniques": ["Must be next to [Mountain]", "[+25]% [Gold] [in this city]","+1 Engineer slot"],
-		"requiredTech": "Astronomy"
+		"uniques": ["Must be next to [Mountain]", "[+10]% Production when constructing [All] buildings [in this city]","[+25]% [Gold] [in this city]"],
+		"requiredTech": "Economics"
 	},
 {
 		"name": "Statue",
