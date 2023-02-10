@@ -116,6 +116,18 @@
 		"requiredTech": "Mathematics"
 	},
 	{
+		"name": "Whale Watching Resort",
+		"replaces": "Seaport",
+		"uniqueTo": "Sri Lanka",
+		"hurryCostModifier": 25,
+		"maintenance": 0,
+		"requiredBuilding": "Harbor",
+		"uniques": ["[+1 Production, +1 Gold] from [Water resource] tiles [in this city]","[+2 Gold, +2 Culture] from [Whales] tiles [in this city]",
+			"Must be next to [Coast]","[10]% Food is carried over after population increases [in this city]"],
+		"requiredTech": "Navigation"
+	},
+/*
+	{
 		"name": "Tea Plantation",
                 "replaces": "Aqueduct",
                 "uniqueTo": "Sri Lanka",
@@ -124,6 +136,7 @@
 		"uniques": ["[40]% Food is carried over after population increases [in this city]", "Provides [1] [Tea]"],
 		"requiredTech": "Engineering"
 	},
+*/
 {
 		"name": "Cosmodrome",
                 "replaces": "Spaceship Factory",
