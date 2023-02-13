@@ -169,7 +169,7 @@
 		"attackSound": "elephant"
 	},
 {
-		"name": "T-72",
+		"name": "T-72 Ural",
 		"unitType": "Armored",
 		"replaces": "Tank",
 		"uniqueTo": "Kazakhstan",

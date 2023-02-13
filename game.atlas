@@ -493,7 +493,7 @@ UnitIcons/Swiss Mercenary
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/T-72
+UnitIcons/T-72 Ural
   rotate: false
   xy: 212, 528
   size: 200, 200
