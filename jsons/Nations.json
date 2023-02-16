@@ -479,7 +479,7 @@
 		"name": "Antarctica",
 		"leaderName": "Roald Amundsen",
 		"adjective": ["Antarctican"],
-		"startBias": ["Snow"],
+		"startBias": ["Snow","Tundra"],
 		"preferredVictoryType": "Diplomatic",
 		"startIntroPart1": " ",
 		"startIntroPart2": " ",
