@@ -90,7 +90,7 @@
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-		"promotions": ["Cannibal ability", "Woodsman"],
+		"promotions": ["[Cannibal] ability", "Woodsman"],
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit"
          },
@@ -318,8 +318,24 @@
 		"requiredTech": "Industrialization",
 		"upgradesTo": "Machine Gun",
 		"obsoleteTech": "Ballistics",
-		"promotions": ["Chasseur ability"],
+		"promotions": ["[Chasseur] ability"],
 		"attackSound": "shot"
+	},
+	{
+		"name": "Snowmobile",
+		"unitType": "Armored",
+		"replaces": "Landship",
+		"uniqueTo": "Antarctica",
+		"movement": 4,
+		"strength": 60,
+		"cost": 350,
+		"requiredTech": "Combustion",
+		"requiredResource": "Oil",
+		"upgradesTo": "Tank",
+		"obsoleteTech": "Combined Arms",
+		"promotions": ["[Snowmobile] ability"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
 	},
 
 ]

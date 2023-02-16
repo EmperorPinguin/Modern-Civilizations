@@ -205,4 +205,16 @@
 		"uniques": ["Provides [1] [Pralines]"],
 		"requiredTech": "Printing Press"
 	},
+{
+		"name": "Research Station",
+		"replaces": "University",
+		"uniqueTo": "Antarctica",
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science] from [Snow] tiles [in this city]","[+2 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
+	},
 ]

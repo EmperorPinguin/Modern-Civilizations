@@ -475,4 +475,29 @@
 		"uniques": ["[+1 Production] from every [Engineer]","[+1 Gold] from every [Merchant]","[+1 Science] from every [Scientist]","[+1 Culture] from every [Artist]"],
 		"cities": ["Brussels","Antwerp","Ghent","Charleroi","Bruges","Liege","Ypres","Schaerbeek","Leuven","Namur","Mons","Mechelen","Anderlecht"]
 	},
+{
+		"name": "Antarctica",
+		"leaderName": "Roald Amundsen",
+		"adjective": ["Antarctican"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Diplomatic",
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+		"declaringWar": "Prepare for war!",
+		"attacked": "You shall regret this!",
+		"defeated": "The victory is yours.",
+		"introduction": "Welcome to Antarctica. I hope you've brought warm clothes.",
+		"neutralHello": "Greetings.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Better hurry, I may change my mind.",
+		"outerColor": [91, 146, 229],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Pristine Wilderness",
+		"uniques": ["[+2 Food] from every [Fishing Boats]", "[+2 Production] from every [Offshore Platform]"],
+		"cities": ["McMurdo","Showa","Marambio","Rothera","Amundsen-Scott","Eduardo Frei","Villa Las Estrallas","Esperanza",
+				"SANAE IV","Casey","Davis","Dumont d'Urville","Carlini","Novolazarevskaya","Halley VI","Concordia","King Sejong",
+				"Jang Bogo","Zhongshan","Great Wall","Neumayer III","Escudero","Mawson"]
+	},
+
 ]
