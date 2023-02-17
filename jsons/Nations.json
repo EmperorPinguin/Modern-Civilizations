@@ -494,7 +494,7 @@
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Pristine Wilderness",
-		"uniques": ["[+3 Food] from [Water resource] tiles [in all cities] <in [Snow] tiles>","[+3 Food] from [Water resource] tiles [in all cities] <in [Tundra] tiles>"],
+		"uniques": ["[+2 Food] from every [City center] <in [Snow] tiles>","[+2 Food] from every [Great Improvement] <in [Snow] tiles>"],
 		"cities": ["McMurdo","Showa","Marambio","Rothera","Amundsen-Scott","Eduardo Frei","Villa Las Estrallas","Esperanza",
 				"SANAE IV","Casey","Davis","Dumont d'Urville","Carlini","Novolazarevskaya","Halley VI","Concordia","King Sejong",
 				"Jang Bogo","Zhongshan","Great Wall","Neumayer III","Escudero","Mawson"]
