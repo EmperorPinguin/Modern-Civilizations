@@ -89,7 +89,7 @@
                 "uniqueTo": "New Zealand",
 		"maintenance": 0,
 		"hurryCostModifier": 25,
-		"uniques": ["[+2 Gold] from [Pasture] tiles [in this city]"],
+		"uniques": ["[+2 Gold] from [Sheep] tiles [in this city]"],
 		"requiredTech": "Currency"
 	},
 {
