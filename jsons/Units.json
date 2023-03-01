@@ -337,5 +337,19 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
+	{
+		"name": "Bayraktar TB2",
+		"replaces": "Guided Missile",
+		"uniqueTo": "Turkiye",
+		"unitType": "Missile",
+		"movement": 1,
+		"strength": 60,
+		"rangedStrength": 80,
+		"range": 8,
+		"cost": 150,
+		"requiredTech": "Advanced Ballistics",
+		"uniques": ["[-100]% maintenance costs"],
+		"attackSound": "missile"
+	},
 
 ]

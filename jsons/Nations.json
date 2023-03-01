@@ -499,5 +499,27 @@
 				"SANAE IV","Casey","Davis","Dumont d'Urville","Carlini","Novolazarevskaya","Halley VI","Concordia","King Sejong",
 				"Jang Bogo","Zhongshan","Great Wall","Neumayer III","Escudero","Mawson"]
 	},
+{
+		"name": "Turkiye",
+		"leaderName": "Mustafa Kemal Atatürk",
+		"adjective": ["Turkish"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Diplomatic",
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+		"declaringWar": "Prepare for war!",
+		"attacked": "You shall regret this!",
+		"defeated": "The victory is yours.",
+		"introduction": "",
+		"neutralHello": "Greetings.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Better hurry, I may change my mind.",
+		"outerColor": [64,224,208],
+		"innerColor": [227,10,23],
+		"favoredReligion": "Islam",
+		"uniqueName": "Father of a Nation",
+		"uniques": ["May not generate great prophet equivalents naturally","[+15]% Production when constructing [Science] buildings [in all cities]","[+15]% Production when constructing [Culture] buildings [in all cities]"],
+		"cities": ["Ankara","Istanbul"]
+	},
 
 ]

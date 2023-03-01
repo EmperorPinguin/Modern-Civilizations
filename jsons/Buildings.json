@@ -50,10 +50,10 @@
 		"uniqueTo": "Papua",
 		"cityStrength": 5,
 		"cityHealth": 50,
-		"cost": 65,
+		"cost": 50,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
-		"uniques": ["Destroyed when the city is captured","[+1 Faith] from [Jungle] tiles [in this city]"]
+		"uniques": ["Destroyed when the city is captured","[+1 Food] from [Jungle] tiles [in this city] <during a Golden Age>", "[+20]% growth [in this city] <during a Golden Age>","Must have an owned [Jungle] within [2] tiles"]
 	},
 {
 		"name": "Chaebol",
@@ -216,5 +216,18 @@
 		"requiredBuilding": "Library",
 		"uniques": ["[+2 Science] from [Snow] tiles [in this city]","[+2 Science] from [Jungle] tiles [in this city]"],
 		"requiredTech": "Education"
+	},
+{
+		"name": "Halkevleri",
+		"replaces": "Public School",
+		"uniqueTo": "Turkiye",
+		"science": 3,
+		"culture": 3,
+		"specialistSlots": {"Scientist": 1},
+		"requiredBuilding": "University",
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"requiredTech": "Scientific Theory"
 	},
 ]
