@@ -103,12 +103,11 @@
 		"strength": 70,
 		"cost": 375,
 		"requiredTech": "Plastics",
-            "uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"],
+            "uniques": ["[+30]% Strength <when fighting in [Coastal] tiles>","[+15]% Strength <when fighting in [Foreign Land] tiles>"],
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot"
 	},
-//Australia and New Zealand should have the same name for their unit, but I haven't succeeded in doing it that way.
 	{
 		"name": "Blue Dragon",
 		"unitType": "Gunpowder",

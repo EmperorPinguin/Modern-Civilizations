@@ -161,7 +161,7 @@
 		"innerColor": [205,46,58],
 		"favoredReligion": "Confucianism",
 		"uniqueName": "Miracle on the Han River",
-                "uniques": ["[+10]% Production when constructing [All] buildings [in all cities] <in [River] tiles>"],
+                "uniques": ["[+20]% Production when constructing [All] buildings [in all cities] <in [River] tiles>"],
 		"cities": ["Seoul","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan",
 			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",
 			"Rason","Gyeongju","Chungju","Sacheon","Gimje","Anju"]
@@ -213,7 +213,7 @@
 		"innerColor": [192,192,192],
 		"favoredReligion": "Christianity",
 		"uniqueName": "National Parks",
-		"uniques": ["[+1 Culture] from every [Forest] <after discovering [Construction]>"],
+		"uniques": ["[+1 Culture] from every [Forest] <while the empire is happy>"],
 		"cities": ["Wellington","Auckland","Christchurch","Manukau City","Waitakere","North Shore","Hamilton","Dunedin","Tauranga","Lower Hutt",
 			"Palmerston North","Rotorua","Hastings","Nelson","Napier","Mangere","Porirua","Whangarei","New Plymouth",
 			"Invercargill","Wanganui","Upper Hutt","Gisborne","Ashburton","Papakura","Timaru","Blenheim","Paraparaumu","Taupo"]
