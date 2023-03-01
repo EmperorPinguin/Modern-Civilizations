@@ -90,7 +90,7 @@
 		"requiredNearbyImprovedResources": ["Sheep"],
 		"maintenance": 0,
 		"hurryCostModifier": 25,
-		"uniques": ["[+2 Gold] from [Sheep] tiles [in this city]"],
+		"uniques": ["Available with Sheep","[+2 Gold] from [Sheep] tiles [in this city]"],
 		"requiredTech": "Currency"
 	},
 {
