@@ -137,7 +137,10 @@
 		"innerColor": [255,215,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Kokoda Trail",
-		"uniques": ["No Maintenance costs for improvements in [Forest] tiles","No Maintenance costs for improvements in [Jungle] tiles"],
+		"uniques": [
+"No Maintenance costs for improvements in [Forest] tiles",
+"No Maintenance costs for improvements in [Jungle] tiles",
+"[Land] units gain the [Woodsman] promotion"],
 		"cities": ["Port Moresby","Lae","Arawa","Mount Hagen","Popondetta","Madang","Kokopo","Mendi","Kimbe","Goroka"] //city names should be replaced with a list of Papuan tribes
 	},
 {

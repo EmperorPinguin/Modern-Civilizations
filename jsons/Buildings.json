@@ -10,7 +10,7 @@
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"maintenance": 2,
-		"uniques": ["[+10]% Production when constructing [All] buildings [in this city]", "[+2 Gold] from [Forest] tiles [in this city]"],
+		"uniques": ["[+10]% Production when constructing [All] buildings [in this city]","[+2 Gold] from [Forest] tiles [in this city]","Must have an owned [Forest] within [2] tiles"],
 		"requiredTech": "Economics"
 	},
 {
@@ -50,7 +50,7 @@
 		"uniqueTo": "Papua",
 		"cityStrength": 5,
 		"cityHealth": 50,
-		"cost": 50,
+		"cost": 65,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured","[+1 Food] from [Jungle] tiles [in this city] <during a Golden Age>", "[+20]% growth [in this city] <during a Golden Age>","Must have an owned [Jungle] within [2] tiles"]
@@ -87,9 +87,10 @@
 		"name": "Sheep Farm",
                 "replaces": "Mint",
                 "uniqueTo": "New Zealand",
+		"requiredNearbyImprovedResources": ["Sheep"],
 		"maintenance": 0,
 		"hurryCostModifier": 25,
-		"uniques": ["[+2 Gold] from [Pasture] tiles [in this city]"],
+		"uniques": ["Available with Sheep","[+2 Gold] from [Sheep] tiles [in this city]"],
 		"requiredTech": "Currency"
 	},
 {
