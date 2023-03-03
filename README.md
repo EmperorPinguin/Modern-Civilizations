@@ -13,8 +13,8 @@ Italy,
 Kazachstan,
 New Zealand,
 North Korea,
-Papua*
-Romania*
+Papua*,
+Romania*,
 Saudi Arabia,
 Singapore,
 South Korea,
