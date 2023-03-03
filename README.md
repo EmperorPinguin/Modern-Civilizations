@@ -23,6 +23,6 @@ Switserland,
 Turkiye,
 Ukraine
 
-* does not contain a unique component from the Industrial era or later, making it currently not a "modern" nation
+\*does not contain a unique component from the Industrial era or later, making it currently not a "modern" nation
 
 Feel free to suggest a new nation that's not already in another Unciv mod
