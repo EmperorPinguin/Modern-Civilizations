@@ -2,25 +2,25 @@
 
 Adds the following nations:
 
-Afghanistan
-Antarctica
-Belgium
-Canada
-Czechia
-Finland
-Iran
-Italy
-Kazachstan
-New Zealand
-North Korea
+Afghanistan,
+Antarctica,
+Belgium,
+Canada,
+Czechia,
+Finland,
+Iran,
+Italy,
+Kazachstan,
+New Zealand,
+North Korea,
 Papua*
 Romania*
-Saudi Arabia
-Singapore
-South Korea
-Sri Lanka
-Switserland
-Turkiye
+Saudi Arabia,
+Singapore,
+South Korea,
+Sri Lanka,
+Switserland,
+Turkiye,
 Ukraine
 
 * does not contain a unique component from the Industrial era or later, making it currently not a "modern" nation
