@@ -24,7 +24,7 @@
                 "replaces": "Longswordsman",
 		"movement": 2,
 		"strength": 21,
-		"cost": 80,
+		"cost": 90,
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
