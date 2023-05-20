@@ -20,7 +20,7 @@
 {
 		"name": "Swiss Mercenary",
 		"unitType": "Sword",
-                "uniqueTo": "Switserland",
+                "uniqueTo": "Switzerland",
                 "replaces": "Longswordsman",
 		"movement": 2,
 		"strength": 21,
