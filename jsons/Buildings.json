@@ -16,7 +16,7 @@
 {
 		"name": "Watchmaker",
 		"replaces": "Windmill",
-		"uniqueTo": "Switserland",
+		"uniqueTo": "Switzerland",
 		"production": 2,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
