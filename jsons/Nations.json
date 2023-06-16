@@ -118,7 +118,7 @@
 			"Buraydah","Khamis Mushait","Al Hufūf","Al Mubarraz","Hafar Al-Batin","Ha'il","Najrān","Al Jubayl","Abha","Yanbu",
 			"Khobar","Arar","Sakakah","Jizan","Qurayyat","Dhahran","Al Qaţīf","Al Bahah","Tārūt","Qal'at Bīshah","Ar Rass","Ash Shafā","Sayhāt"]
 	},
-{
+/*{
 		"name": "Papua",
 		"leaderName": "Michael Somare",
 		"adjective": ["Papua"],
@@ -142,7 +142,7 @@
 "No Maintenance costs for improvements in [Jungle] tiles",
 "[Land] units gain the [Woodsman] promotion"],
 		"cities": ["Port Moresby","Lae","Arawa","Mount Hagen","Popondetta","Madang","Kokopo","Mendi","Kimbe","Goroka"] //city names should be replaced with a list of Papuan tribes
-	},
+	},*/
 {
 		"name": "South Korea",
 		"leaderName": "Park Chung-hee",
@@ -164,7 +164,7 @@
 		"innerColor": [205,46,58],
 		"favoredReligion": "Confucianism",
 		"uniqueName": "Miracle on the Han River",
-                "uniques": ["[+20]% Production when constructing [All] buildings [in all cities] <in [River] tiles>"],
+                "uniques": ["[+50]% Yield from every [Great Improvement]"],
 		"cities": ["Seoul","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan",
 			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",
 			"Rason","Gyeongju","Chungju","Sacheon","Gimje","Anju"]
@@ -190,7 +190,6 @@
 		"uniques": [
 "[+2 Culture] from every [Scientist] <during a Golden Age>",
 "[+2 Science] from every [Artist] <during a Golden Age>",
-//"[+15]% [Culture] [in all cities] <while the empire is happy>","Receive free [Great Artist] when you discover [Acoustics]",
 ],
 		"cities": ["Roma","Milan","Naples","Turin","Florence","Genoa","Bari","Palermo","Cagliari","Catania","Brescia","Messina","Pisa","Bologna","Verona"]
 	},
@@ -216,7 +215,7 @@
 		"innerColor": [192,192,192],
 		"favoredReligion": "Christianity",
 		"uniqueName": "National Parks",
-		"uniques": ["[+1 Culture] from every [Forest] <while the empire is happy>"],
+		"uniques": ["[+1 Culture] from every [Forest] <starting from the [Medieval era]>"],
 		"cities": ["Wellington","Auckland","Christchurch","Manukau City","Waitakere","North Shore","Hamilton","Dunedin","Tauranga","Lower Hutt",
 			"Palmerston North","Rotorua","Hastings","Nelson","Napier","Mangere","Porirua","Whangarei","New Plymouth",
 			"Invercargill","Wanganui","Upper Hutt","Gisborne","Ashburton","Papakura","Timaru","Blenheim","Paraparaumu","Taupo"]
