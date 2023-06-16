@@ -80,7 +80,7 @@
 		"uniques": ["Ignores terrain cost", "[+50]% Strength <vs [Armored] units>", "[+50]% Strength <when fighting units from a Civilization with more Cities than you>"],
 		"attackSound": "machinegun"
 	},
-{
+/*{
 		"name": "Cannibal",
 		"unitType": "Sword",
 		"uniqueTo": "Papua",
@@ -93,7 +93,7 @@
 		"promotions": ["[Cannibal] ability"],
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit"
-         },
+         },*/
 {
 		"name": "ANZAC",
 		"unitType": "Gunpowder",
@@ -114,7 +114,7 @@
 		"replaces": "Marine",
 		"uniqueTo": "South Korea",
 		"movement": 2,
-		"strength": 75,
+		"strength": 80,
 		"cost": 400,
 		"requiredTech": "Pharmaceuticals",
 		"promotions": ["Amphibious"],
@@ -194,8 +194,9 @@
 		"cost": 320,
 		"requiredTech": "Dynamite",
 		"upgradesTo": "Rocket Artillery",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus", "[-1] Sight","Never appears as a Barbarian unit"],
-	        "promotions": ["Indirect Fire"],
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
+			"Must set up to ranged attack","[-1] Sight", "Never appears as a Barbarian unit"],
+		"promotions": ["Indirect Fire"],
 		"attackSound": "artillery"
 	},
 	{
