@@ -9,8 +9,8 @@
 		"production": 2,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
-		"maintenance": 2,
-		"uniques": ["[+10]% Production when constructing [All] buildings [in this city]","[+2 Gold] from [Forest] tiles [in this city]","Must have an owned [Forest] within [2] tiles"],
+		"maintenance": 0,
+		"uniques": ["[+10]% Production when constructing [All] buildings [in this city]","[+1 Gold] from [Forest] tiles [in this city]","Must have an owned [Forest] within [2] tiles"],
 		"requiredTech": "Economics"
 	},
 {
@@ -21,7 +21,7 @@
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"maintenance": 0,
-		"uniques": ["Must be next to [Mountain]", "[+10]% Production when constructing [All] buildings [in this city]","[+25]% [Gold] [in this city]"],
+		"uniques": ["Must be next to [Mountain]", "[+10]% Production when constructing [All] buildings [in this city]","+1 Engineer slot","[+25]% [Gold] [in this city]"],
 		"requiredTech": "Economics"
 	},
 	{
@@ -33,9 +33,8 @@
 		"maintenance": 1,
 		"requiredTech": "Pottery",
 		"uniques": [
-"[+15]% Production when constructing [Siege] units [in this city]", 
-"[+15]% Production when constructing [Atomic Bomb] units [in this city]",
-"[+15]% Production when constructing [Nuclear Missile] units [in this city]",
+"[+20]% Production when constructing [Atomic Bomb] units [in this city]",
+"[+20]% Production when constructing [Nuclear Missile] units [in this city]",
 "Hidden when religion is disabled"]
 	},
 {
@@ -44,10 +43,12 @@
                 "uniqueTo": "Finland",
                 "cost": 75,
 		"happiness": 2,
-		"uniques": ["[+2 Food] from [Camp] tiles [in this city]", "Must be next to [Tundra]"],
+		"food": 2,
+		"uniques": ["Must be next to [Tundra]"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Trapping"
 	},
+	/*
 {
 		"name": "Treehouse",
 		"replaces": "Walls",
@@ -58,21 +59,16 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured","[+1 Food] from [Jungle] tiles [in this city] <during a Golden Age>", "[+20]% growth [in this city] <during a Golden Age>","Must have an owned [Jungle] within [2] tiles"]
-	},
+	},*/
 {
 		"name": "Chaebol",
                 "replaces": "Seaport",
                 "uniqueTo": "South Korea",
 		"hurryCostModifier": 25,
-		"maintenance": 0,
+		"maintenance": 3,
 		"requiredBuilding": "Harbor",
 		"uniques": [
-"[+4 Production] from [Manufactory] tiles [in this city]",
-"[+4 Gold] from [Customs house] tiles [in this city]",
-"[+4 Science] from [Academy] tiles [in this city]",
-"[+4 Culture] from [Landmark] tiles [in this city]",
-"[+4 Faith] from [Holy site] tiles [in this city]",
-"[+1 Production, +1 Gold] from [Water resource] tiles [in this city]",
+"[+1 Production, +1 Gold] from [Water resource] tiles [in this city]","[+1 Production] from every specialist [in this city]",
 "Must be next to [Coast]", "[+15]% Production when constructing [Water] units [in this city]"],
 		"requiredTech": "Navigation"
 	},
@@ -179,11 +175,11 @@
 		"name": "Safari Park",
 		"replaces": "Medical Lab",
 		"uniqueTo": "South Africa",
-		"requiredBuilding": "Hospital",
+		"requiredNearbyImprovedResources": ["Deer","Ivory","Furs","Truffles"],
 		"maintenance": 0,
 		"requiredTech": "Flight",
 		"uniques": [
-"[+3 Gold, +3 Culture] from [Camp] tiles [in this city]",
+"Available with Camp","[+3 Culture] from [Camp] tiles [in this city]",
 "[25]% Food is carried over after population increases [in this city]",
 "Unlocked at Flight"]
 	},
@@ -191,11 +187,11 @@
 		"name": "Oil Facility",
 		"replaces": "Medical Lab",
 		"uniqueTo": "Saudi Arabia",
-		"requiredBuilding": "Hospital",
+		"requiredNearbyImprovedResources": ["Oil"],
 		"maintenance": 0,
 		"requiredTech": "Flight",
 		"uniques": [
-"Must be next to [Desert]","[+3 Production, +3 Gold] from [Oil well] tiles [in this city]",
+"Available with Oil","[+8 Gold] from [Oil well] tiles [in this city]",
 "[25]% Food is carried over after population increases [in this city]",
 "Unlocked at Flight"]
 	},
