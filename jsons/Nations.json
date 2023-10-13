@@ -512,7 +512,7 @@
 		"declaringWar": "Prepare for war!",
 		"attacked": "You shall regret this!",
 		"defeated": "The victory is yours.",
-		"introduction": "",
+		"introduction": "Welcome!",
 		"neutralHello": "Greetings.",
 		"hateHello": "What do you want?",
 		"tradeRequest": "Better hurry, I may change my mind.",
@@ -525,5 +525,29 @@
 "Diyarbakır","Kayser","Üsküdar","Bahçelievler","Umraniye","Mersin","Esenler","Eskişehir","Karabağlar","Muratpasa",
 "Şanliurfa","Malatya","Sultangazi","Maltepe","Erzurum","Samsun","Batman","Kahramanmaras","Van","Ataşehir"]
 	},
+/*
+	{
+		"name": "Uzbekistan",
+		"leaderName": "Nebuchadnezzar II",
+		"adjective": ["Uzbek"],
+		"startBias": ["Flood Plains"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		"declaringWar": "How dare you insult me by your existence!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "Hello!",
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"outerColor": [0, 152, 181],
+		"innerColor": [30, 181, 158],
+		"favoredReligion": "Islam",
+		"uniqueName": "92 Tribes of Uzbek",
+		"uniques": ["All newly-trained [Mounted] units [in all cities] receive the [Shock I] promotion"],
+		"cities": ["Tashkent"]
+	},
+*/
 
 ]
