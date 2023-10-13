@@ -350,7 +350,7 @@
 		"innerColor": [215, 20, 26],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Truth Prevails",
-		"uniques": ["[+1 Culture, +1 Science] from every [Water Mill]","[+1 Culture, +1 Science] from every [Garden]"],
+		"uniques": ["[+50 Culture] whenever a Great Person is expended"],
 		"cities": ["Prague","Brno","Ostrava","Plzeň","Olomouc","Ústí nad Labem","České Budějovice","Hradec Králové","Pardubice","Zlín","Havířov","Kladno","Most","Opava","Frýdek-Místek","Karviná","Jihlava","Teplice","Děčín"]
 	},
 {
