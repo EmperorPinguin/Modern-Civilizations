@@ -29,7 +29,7 @@
 		"replaces": "Temple",
 		"uniqueTo": "North Korea",
 		"maintenance": 2,
-		"uniques": ["[+15]% Production when constructing [Melee] units [in this city]","[+15]% Production when constructing [Missile] units [in this city]"],
+		"uniques": ["[+20]% Production when constructing [Worker] units [in this city]","[+20]% Production when constructing [Atomic Bomb] units [in this city]","[+20]% Production when constructing [Nuclear Missile] units [in this city]"],
 		"faith": 2,
 		"requiredBuilding": "Shrine",
 		"hurryCostModifier": 25,
