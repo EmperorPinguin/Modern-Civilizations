@@ -262,19 +262,18 @@
 		"attackSound": "machinegun"
 	},
 {
-		"name": "Wallachian Horseman",
-		"unitType": "Mounted",
-	        "replaces": "Knight",
-		"uniqueTo": "Romania"
-		"movement": 4,
-		"strength": 20,
-		"cost": 100,
-		"requiredTech": "Chivalry",
-		"obsoleteTech": "Military Science",
-		"upgradesTo": "Cavalry",
-		"requiredResource": "Horses",
-		"uniques": ["[+33]% Strength <when fighting units from a Civilization with more Cities than you>", "Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
-		"attackSound": "horse"
+		"name": "Vanator",
+		"unitType": "Gunpowder",
+		"replaces": "Rifleman",
+		"uniqueTo": "Romania",
+		"movement": 2,
+		"strength": 34,
+		"cost": 200,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"uniques": ["[+30]% Strength <when fighting units from a Civilization with more Cities than you>"],
+		"attackSound": "shot"
 	},
 {
 		"name": "Voortrekker",
