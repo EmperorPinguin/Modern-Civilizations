@@ -115,11 +115,11 @@
 		"replaces": "Marine",
 		"uniqueTo": "South Korea",
 		"movement": 2,
-		"strength": 80,
+		"strength": 65,
 		"cost": 400,
 		"requiredTech": "Pharmaceuticals",
-		"promotions": ["Amphibious"],
-		"uniques": ["[+1 Sight] <when Embarked>", "Defense bonus when embarked"],
+		"promotions": ["Amphibious","Great Generals II"],
+		"uniques": ["[+1 Sight] <when Embarked>", "Defense bonus when embarked","[1] Movement point cost to embark","[1] Movement point cost to disembark"],
 		"attackSound": "shot"
 	},
 	{
