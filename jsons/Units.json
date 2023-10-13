@@ -119,7 +119,7 @@
 		"cost": 400,
 		"requiredTech": "Pharmaceuticals",
 		"promotions": ["Amphibious","Great Generals II"],
-		"uniques": ["[+1 Sight] <when Embarked>", "Defense bonus when embarked","[1] Movement point cost to embark","[1] Movement point cost to disembark"],
+		"uniques": ["[+1] Sight <when Embarked>", "Defense bonus when embarked","[1] Movement point cost to embark","[1] Movement point cost to disembark"],
 		"attackSound": "shot"
 	},
 	{
