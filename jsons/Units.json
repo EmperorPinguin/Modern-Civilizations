@@ -40,9 +40,9 @@
                 "replaces": "Artillery",
 		"movement": 2,
 		"strength": 21,
-		"rangedStrength": 32,
+		"rangedStrength": 28
 		"range": 3,
-		"cost": 320,
+		"cost": 240,
 		"requiredTech": "Dynamite",
 		"upgradesTo": "Rocket Artillery",
 		"promotions": ["Indirect Fire"],
@@ -50,7 +50,7 @@
 			"Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit"],
 		"attackSound": "artillery"
 	},
-	{
+{
 		"name": "Camel Cavalry",
 		"replaces": "Cavalry",
 		"uniqueTo": "Saudi Arabia",
