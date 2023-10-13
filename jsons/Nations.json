@@ -113,7 +113,7 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Islam",
 		"uniqueName": "Hajj",
-		"uniques": ["May choose [1] additional [Founder] beliefs when [founding] a religion","[+2 Faith] from every [Oasis]"],
+		"uniques": ["May choose [1] additional [Founder] beliefs when [founding] a religion", "Gain [25] [Faith] <upon discovering a Natural Wonder>"],
 		"cities": ["Riyadh","Jeddah","Mecca","Medina","Sulţānah","Kufah","Dammam","Ta'if","Tabuk","Al Kharj",
 			"Buraydah","Khamis Mushait","Al Hufūf","Al Mubarraz","Hafar Al-Batin","Ha'il","Najrān","Al Jubayl","Abha","Yanbu",
 			"Khobar","Arar","Sakakah","Jizan","Qurayyat","Dhahran","Al Qaţīf","Al Bahah","Tārūt","Qal'at Bīshah","Ar Rass","Ash Shafā","Sayhāt"]
@@ -191,7 +191,7 @@
 "[+2 Culture] from every [Scientist] <during a Golden Age>",
 "[+2 Science] from every [Artist] <during a Golden Age>",
 ],
-		"cities": ["Roma","Milan","Naples","Turin","Florence","Genoa","Bari","Palermo","Cagliari","Catania","Brescia","Messina","Pisa","Bologna","Verona"]
+		"cities": ["Rome","Milan","Naples","Turin","Florence","Genoa","Bari","Palermo","Cagliari","Catania","Brescia","Messina","Pisa","Bologna","Verona"]
 	},
 {
 		"name": "New Zealand",
