@@ -189,7 +189,7 @@
 		"maintenance": 0,
 		"requiredTech": "Flight",
 		"uniques": [
-"Available with Oil","[+8 Gold] from [Oil well] tiles [in this city]",
+"Available with Oil","[+5 Gold] from [Oil] tiles [in this city]",
 "[25]% Food is carried over after population increases [in this city]",
 "Unlocked at Flight"]
 	},
