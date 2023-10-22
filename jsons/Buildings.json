@@ -229,4 +229,17 @@
 		"uniques": ["[+1 Science] per [2] population [in this city]"],
 		"requiredTech": "Scientific Theory"
 	},
+/*
+	{
+		"name": "Namazgah",
+		"replaces": "Temple",
+		"uniqueTo": "Uzbekistan",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Remove extra unhappiness from annexed cities"]
+	},
+*/
 ]
