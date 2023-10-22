@@ -350,5 +350,19 @@
 		"uniques": ["[-100]% maintenance costs"],
 		"attackSound": "missile"
 	},
-
+/*
+	{
+		"name": "River Force",
+		"replaces": "Marine",
+		"uniqueTo": "Uzbekistan",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 65,
+		"cost": 400,
+		"requiredTech": "Pharmaceuticals",
+		"promotions": ["Amphibious"],
+		"uniques": ["[+50]% Strength <when fighting in [River] tiles>", "[+1] Sight <when [Embarked]>", "Defense bonus when embarked"],
+		"attackSound": "shot"
+	},
+*/
 ]
