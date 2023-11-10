@@ -360,7 +360,7 @@
 		"cost": 400,
 		"requiredTech": "Pharmaceuticals",
 		"promotions": ["Amphibious"],
-		"uniques": ["[+50]% Strength <when fighting in [River] tiles>", "[+1] Sight <when [Embarked]>", "Defense bonus when embarked"],
+		"uniques": ["[+50]% Strength <when fighting in [River] tiles>","Ignores terrain cost <in [River] tiles>","[+1] Sight <when [Embarked]>", "Defense bonus when embarked"],
 		"attackSound": "shot"
 	},
 	{

@@ -236,12 +236,12 @@
 		"name": "Namazgah",
 		"replaces": "Temple",
 		"uniqueTo": "Uzbekistan",
+		"science": 2,
 		"faith": 2,
 		"requiredBuilding": "Shrine",
 		"maintenance": 0,
 		"hurryCostModifier": 25,
-		"requiredTech": "Philosophy",
-		"uniques": ["Remove extra unhappiness from annexed cities"]
+		"requiredTech": "Philosophy"
 	},
 	{
 		"name": "Al-Aqsa",
