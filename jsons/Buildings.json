@@ -107,22 +107,24 @@
                 "replaces": "Courthouse",
                 "uniqueTo": "Singapore",
                 "cityStrength": 10,
-		"specialistSlots": {"Merchant": 4},
 		"maintenance": 0,
-		"hurryCostModifier": 50,
-		"uniques": ["[+100]% [Gold] [in this city]","+4 Merchant slots","Can only be built [in capital]","Destroyed when the city is captured"],
-		"requiredTech": "Mathematics"
+		"cost": 100,
+		"uniques": ["[2] free [Great Merchant] units appear","Is National Wonder"],
+		"requiredTech": "Mathematics",
+		"isNationalWonder": true
+
 	},
 	{
 		"name": "Whale Watching Resort",
 		"replaces": "Seaport",
 		"uniqueTo": "Sri Lanka",
+		"requiredNearbyImprovedResources": ["Whales"],
 		"hurryCostModifier": 25,
 		"maintenance": 0,
 		"cost": 250,
 		"requiredBuilding": "Harbor",
 		"uniques": ["Unlocked at Flight","[+1 Production, +1 Gold] from [Water resource] tiles [in this city]","[+4 Gold, +2 Culture] from [Whales] tiles [in this city]",
-			"Must be next to [Coast]","[20]% Food is carried over after population increases [in this city]"],
+			"Must be next to [Coast]","[25]% Food is carried over after population increases [in this city]"],
 		"requiredTech": "Flight"
 	},
 /*
@@ -164,8 +166,9 @@
             "uniqueTo": "Romania",
 		"cost": 0,
 		"culture": 4,
-		"faith": 4,
-		"uniques": ["[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
+		"faith": 2,
+		"specialistSlots": {"Artist": 1},
+		"uniques": ["+1 Artist slot","[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
 			"[+1 Culture, +1 Faith] from [Incense] tiles [in this city]",
 			"Unbuildable", "Hidden when religion is disabled", "Destroyed when the city is captured"]
 	},
@@ -229,7 +232,6 @@
 		"uniques": ["[+1 Science] per [2] population [in this city]"],
 		"requiredTech": "Scientific Theory"
 	},
-/*
 	{
 		"name": "Namazgah",
 		"replaces": "Temple",
@@ -241,5 +243,18 @@
 		"requiredTech": "Philosophy",
 		"uniques": ["Remove extra unhappiness from annexed cities"]
 	},
-*/
+	{
+		"name": "Al-Aqsa",
+		"replaces": "Grand Temple",
+		"uniqueTo": "Palestine",
+		"cost": 125,
+		"culture": 1,
+		"faith": 8,
+		"happiness": 4,
+		"food": 4,
+		"uniques": ["Requires a [Temple] in all cities", "Cost increases by [30] per owned city",
+			"[+100]% Natural religion spread [in this city]", "Hidden when religion is disabled", "Can only be built [in holy cities]"],
+		"requiredTech": "Theology",
+		"isNationalWonder": true
+	},
 ]

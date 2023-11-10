@@ -47,4 +47,8 @@
 		"name": "[Snowmobile] ability",
 		"uniques": ["[+33]% Strength <when fighting in [Snow] tiles>","[+33]% Strength <when fighting in [Tundra] tiles>"]
 	},
+{
+		"name": "[Vanatori] ability",
+		"uniques": ["[+50]% Strength <when fighting in [Hill] tiles> <in [Friendly Land] tiles>"]
+	},
 ]
