@@ -13,16 +13,16 @@ Italy,
 Kazachstan,
 New Zealand,
 North Korea,
-Papua*,
-Romania*,
+Palestina,
+Romania,
 Saudi Arabia,
 Singapore,
 South Korea,
 Sri Lanka,
 Switserland,
 Turkiye,
-Ukraine
+Ukraine,
+Uzbekistan
 
-\*does not contain a unique component from the Industrial era or later, making it currently not a "modern" nation
 
-Feel free to suggest a new nation that's not already in another Unciv mod
+Feel free to suggest a new nation that's not already in another major Unciv extension mod

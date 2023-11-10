@@ -529,8 +529,8 @@
 		"name": "Uzbekistan",
 		"leaderName": "Islom Karimov",
 		"adjective": ["Uzbek"],
-		"startBias": ["Flood Plains"],
-		"preferredVictoryType": "Domination",
+		"startBias": ["Flood plains"],
+		"preferredVictoryType": "Diplomatic",
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 		"declaringWar": "This is war!",
@@ -569,7 +569,7 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "From the River to the Sea",
 		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith] <when fighting in [Enemy Land] tiles>", "Earn [100]% of killed [Military] unit's [Strength] as [Culture] <when fighting in [Friendly Land] tiles>"],
-		"cities": ["East Jerusalem","Gaza","kan Yunis","Hebron","Nablus","Rafah","Deir el-Balah","Beit Lahia","Tulkarm","Ma`ale Adummim","Bethlehem","Surif","Ramallah"]
+		"cities": ["East Jerusalem","Gaza","Khan Younis","Hebron","Nablus","Rafah","Deir el-Balah","Beit Lahia","Tulkarm","Ma`ale Adummim","Bethlehem","Surif","Ramallah"]
 	},
 
 ]
