@@ -568,4 +568,27 @@
 		"cities": ["East Jerusalem","Gaza","Khan Younis","Hebron","Nablus","Rafah","Deir el-Balah","Beit Lahia","Tulkarm","Ma`ale Adummim","Bethlehem","Surif","Ramallah"]
 	},
 
+{
+		"name": "Iceland",
+		"leaderName": "Ingólfur Arnarson",
+		"adjective": ["Icelandic"],
+		"startBias": ["Coast","Tundra"],
+		"preferredVictoryType": "Cultural",
+                "startIntroPart1": " ",
+		"startIntroPart2": " ",
+		"declaringWar": " ",
+		"attacked": " ",
+		"defeated": " ",
+		"introduction": " ",
+		"neutralHello": " ",
+		"hateHello": " ",
+		"tradeRequest": " ",
+		"outerColor": [2, 82, 156],
+		"innerColor": [255, 255, 255],
+                "favoredReligion": "Christianity",
+		"uniqueName": "The Vinland Sagas",
+		"uniques": ["Gain [20] [Culture] <upon discovering a Natural Wonder>"],
+		"cities": ["Reykjavik"]
+	},
+
 ]

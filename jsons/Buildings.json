@@ -257,4 +257,16 @@
 		"requiredTech": "Theology",
 		"isNationalWonder": true
 	},
+	{
+		"name": "Geothermal Plant",
+		"replaces": "Hydro Plant",
+		"uniqueTo": "Iceland",
+		//"requiredResource": "Iron",
+		"hurryCostModifier": 0,
+		"specialistSlots": {"Engineer": 2},
+		"production": 5,
+		"maintenance": 3,
+		"uniques": ["+2 Engineer slots"],
+		"requiredTech": "Electricity"
+	},
 ]

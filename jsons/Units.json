@@ -375,4 +375,18 @@
 		"uniques": ["Does not upgrade into Infantry","[+200]% Strength <when attacking>","Self-destructs when attacking"],
 		"attackSound": "shot"
 	},
+	{
+		"name": "Longship",
+		"unitType": "Melee Water",
+		"replaces": "Trireme",
+		"uniqueTo": "Iceland",
+		"movement": 4,
+		"strength": 10,
+		"cost": 45,
+		"requiredTech": "Sailing",
+		"uniques": ["[+1] Sight","Can build [Water] improvements on tiles","Never appears as a Barbarian unit"],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
+	},
 ]
