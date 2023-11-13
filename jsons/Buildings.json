@@ -266,7 +266,7 @@
 		"specialistSlots": {"Engineer": 2},
 		"production": 5,
 		"maintenance": 3,
-		"uniques": ["+2 Engineer slots"],
+		"uniques": ["+2 Engineer slots","No River requirements"],
 		"requiredTech": "Electricity"
 	},
 ]
