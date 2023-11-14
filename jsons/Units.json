@@ -405,4 +405,19 @@
 		"promotions": ["Drill I", "Home Sweet Home"],
 		"attackSound": "horse"
 	},
+	{
+		"name": "Barbary Corsair",
+		"unitType": "Ranged Water",
+		"uniqueTo": "Algeria",
+		"replaces": "Galleass",
+		"movement": 4,
+		"strength": 17,
+		"rangedStrength": 18,
+		"cost": 100,
+		"requiredTech": "Compass",
+		"obsoleteTech": "Navigation",
+		"upgradesTo": "Frigate",
+		"uniques": ["Earn [200]% of killed [Military] unit's [Strength] as [Gold]","Cannot enter ocean tiles"],
+		"attackSound": "arrow"
+	},
 ]
