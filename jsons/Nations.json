@@ -590,7 +590,7 @@
 		"uniques": ["Gain [20] [Culture] <upon discovering a Natural Wonder>"],
 		"cities": ["Reykjavík"]
 	},
-/*{
+{
 		"name": "Algeria",
 		"leaderName": "Emir Abdelkader",
 		"adjective": ["Algerian"],
@@ -605,10 +605,10 @@
 		"neutralHello": " ",
 		"hateHello": " ",
 		"tradeRequest": " ",
-		"outerColor": [0, 102, 51],
-		"innerColor": [210, 16, 52 ],
+		"outerColor": [232, 198, 104],
+		"innerColor": [0, 0, 128],
                 "favoredReligion": "Islam",
-		"uniqueName": "Zawiya",
+		"uniqueName": "Zawiya Education",
 		"uniques": [
                     "May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Renaissance era]>",
                     "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Renaissance era]>",
@@ -616,6 +616,6 @@
                     "May buy [Great Scientist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Renaissance era]>",
 		],
 		"cities": ["Algiers"]
-	},*/
+	},
 
 ]
