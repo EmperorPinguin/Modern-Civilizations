@@ -588,7 +588,34 @@
                 "favoredReligion": "Christianity",
 		"uniqueName": "The Vinland Sagas",
 		"uniques": ["Gain [20] [Culture] <upon discovering a Natural Wonder>"],
-		"cities": ["Reykjavik"]
+		"cities": ["Reykjavík"]
 	},
+/*{
+		"name": "Algeria",
+		"leaderName": "Emir Abdelkader",
+		"adjective": ["Algerian"],
+		"startBias": ["Desert","Coast"],
+		"preferredVictoryType": "Diplomatic",
+                "startIntroPart1": " ",
+		"startIntroPart2": " ",
+		"declaringWar": " ",
+		"attacked": " ",
+		"defeated": " ",
+		"introduction": " ",
+		"neutralHello": " ",
+		"hateHello": " ",
+		"tradeRequest": " ",
+		"outerColor": [2, 82, 156],
+		"innerColor": [255, 255, 255],
+                "favoredReligion": "Islam",
+		"uniqueName": "Zawiya",
+		"uniques": [
+                    "May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Renaissance era]>",
+                    "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Renaissance era]>",
+                    "May buy [Great Merchant] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Renaissance era]>",
+                    "May buy [Great Scientist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Renaissance era]>",
+		],
+		"cities": ["Algiers"]
+	},*/
 
 ]
