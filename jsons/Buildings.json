@@ -26,14 +26,13 @@
 	},
 {
 		"name": "Statue",
-		"replaces": "Temple",
+		"replaces": "Colosseum",
 		"uniqueTo": "North Korea",
-		"maintenance": 2,
-		"uniques": ["[+20]% Production when constructing [Worker] units [in this city]","[+20]% Production when constructing [Atomic Bomb] units [in this city]","[+20]% Production when constructing [Nuclear Missile] units [in this city]"],
-		"faith": 2,
-		"requiredBuilding": "Shrine",
+		"maintenance": 1,
+		"happiness": 2,
 		"hurryCostModifier": 25,
-		"requiredTech": "Philosophy"
+		"uniques": ["[+50]% Production when constructing [Worker] units [in this city]"],
+		"requiredTech": "Construction"
 	},
 {
 		"name": "Sauna",
