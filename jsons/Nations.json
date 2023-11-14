@@ -68,7 +68,7 @@
 		"innerColor": [2, 79, 162],
 		"favoredReligion": "Confucianism",
 		"uniqueName": "Juche",
-                "uniques": ["Double quantity of [Uranium] produced"],
+                "uniques": ["[+50]% Production when constructing [Nuclear Missile] units [in all cities]","Double quantity of [Uranium] produced"],
 		"cities": ["Pyongyang","Hamhung","Namp'o","Sunch'on","Hungnam","Kaesong","Wonsan","Chongjin","Sariwon","Sinuiji","Haeju","Kanggye",
 			"Hyesan","Songnim","Manp'o","P'yongsong","Hyesan-dong","Hyesan-dong","Hongwon","Rajin","Ongjin","Kilju","Chaeryong-up",
 			"Anju","Hoeryong","Sungho I-tong","Changyong","Sunan","Hwangju-up"]
