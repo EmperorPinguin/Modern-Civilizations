@@ -605,8 +605,8 @@
 		"neutralHello": " ",
 		"hateHello": " ",
 		"tradeRequest": " ",
-		"outerColor": [2, 82, 156],
-		"innerColor": [255, 255, 255],
+		"outerColor": [0, 102, 51],
+		"innerColor": [210, 16, 52 ],
                 "favoredReligion": "Islam",
 		"uniqueName": "Zawiya",
 		"uniques": [
