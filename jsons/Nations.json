@@ -609,7 +609,8 @@
 		"outerColor": [232, 198, 104],
 		"innerColor": [0, 0, 128],
                 "favoredReligion": "Islam",
-		"uniqueName": "Zawiya Education",
+		"uniqueName": "Idjaza",
+		"uniqueText": "May buy Great Person units with [Faith] starting from the Renaissance era",
 		"uniques": [
                     "May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Renaissance era]>",
                     "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Renaissance era]>",
