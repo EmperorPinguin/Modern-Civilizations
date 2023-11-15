@@ -616,7 +616,8 @@
                     "May buy [Great Merchant] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Renaissance era]>",
                     "May buy [Great Scientist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Renaissance era]>",
 		],
-		"cities": ["Algiers"]
+		"cities": ["Algiers","Oran","Constantine","Annaba","Blida","Batna","Djelfa","Sétif","Sidi bel Abbès","Biskra",
+"Tébessa","Skikda","Tiaret","Béjaïa","Tlemcen","Béchar","Mostaganem","Bordj bou Arredji","Clef","Souk Ahras"]
 	},
 
 ]
