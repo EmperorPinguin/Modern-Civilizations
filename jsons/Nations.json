@@ -588,7 +588,8 @@
                 "favoredReligion": "Christianity",
 		"uniqueName": "The Vinland Sagas",
 		"uniques": ["Gain [20] [Culture] <upon discovering a Natural Wonder>"],
-		"cities": ["Reykjavík"]
+		"cities": ["Reykjavík","Kópavogur","Hafnafjörður","Akureyri","Reykjanesbær","Garðabær","Mosfellsbær","Selfoss","Akranes","Seltjarnarnes",
+			"Vestmannaeyjar","Grindavik","Ísafjörður","Álftanes","Sauðárkrókur","Hveragerði","Egilsstaðir","Húsavík","Borgarnes","Sanderði"]
 	},
 {
 		"name": "Algeria",
