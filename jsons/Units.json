@@ -364,7 +364,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Fadayeen",
+		"name": "Fedayeen",
 		"unitType": "Gunpowder",
 		"replaces": "Great War Infantry",
 		"uniqueTo": "Palestine",
