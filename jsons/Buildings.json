@@ -159,17 +159,18 @@
 		"uniques": ["[+25]% Great Person generation [in this city]"],
 		"requiredTech": "Printing Press"
 	},
-	{
+{
 		"name": "Painted Church",
-            "replaces": "Monastery",
-            "uniqueTo": "Romania",
-		"cost": 0,
-		"culture": 4,
+		"uniqueTo": "Romania",
+		"replaces": "Temple",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"culture": 2,
 		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"requiredTech": "Philosophy"
 		"specialistSlots": {"Artist": 1},
-		"uniques": ["+1 Artist slot","[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
-			"[+1 Culture, +1 Faith] from [Incense] tiles [in this city]",
-			"Unbuildable", "Hidden when religion is disabled", "Destroyed when the city is captured"]
+		"uniques": ["+1 Artist slot"]
 	},
 {
 		"name": "Safari Park",
