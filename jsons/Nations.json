@@ -271,7 +271,7 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Mini-size Superstate",
-		"uniques": ["[+200]% [Food] from City-States","[+50]% Yield from every [Great Improvement]","Cannot build [Settler] units"],
+		"uniques": ["[+2 Food] from every [Great Improvement]","Cannot build [Settler] units"],
 		"cities": ["Singapore"]
 	},
 {
@@ -395,8 +395,8 @@
 		"outerColor": [0,87,184],
 		"innerColor": [255,215,0],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Chernozem",
-		"uniques": ["[+2 Gold] from every [Wheat]","Double quantity of [Horses] produced","[-25]% Culture cost of natural border growth [in all cities]"],
+		"uniqueName": "Slava Ukaini",
+		"uniques": ["Double quantity of [Horses] produced","[-33]% Culture cost of natural border growth [in all cities connected to capital]","Roads connect tiles across rivers"],
 		"cities": [
 			"Kyiv","Kharkiv","Dnipropetrovsk","Odesa","Donetsk","Zaporizhia",
                   "Lviv","Kryvyi Rih","Mykolaiv","Mariupol","Luhansk","Makiivka","Simferopol",

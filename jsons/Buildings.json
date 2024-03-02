@@ -20,8 +20,8 @@
 		"production": 2,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
-		"maintenance": 0,
-		"uniques": ["Must be next to [Mountain]", "[+10]% Production when constructing [All] buildings [in this city]","+1 Engineer slot","[+25]% [Gold] [in this city]"],
+		"maintenance": 2,
+		"uniques": ["Must be next to [Mountain]", "[+10]% Production when constructing [All] buildings [in this city]","[+1 Production] from every specialist [in this city]"],
 		"requiredTech": "Economics"
 	},
 {
@@ -108,7 +108,8 @@
                 "cityStrength": 10,
 		"maintenance": 0,
 		"cost": 100,
-		"uniques": ["[2] free [Great Merchant] units appear","Is National Wonder"],
+		"specialistSlots": {"Artist": 1,"Engineer": 1,"Merchant": 1,"Scientist": 1},
+		"uniques": ["[+10] Unit Supply","+1 of each type of specialist"],
 		"requiredTech": "Mathematics",
 		"isNationalWonder": true
 
