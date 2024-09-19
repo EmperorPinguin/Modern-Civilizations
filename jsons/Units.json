@@ -210,7 +210,7 @@
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
-		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith]","Damage is ignored when determining unit Strength"],
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith]","No damage penalty for wounded units"],
 		"attackSound": "shot"
 	},
 {
