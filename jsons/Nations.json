@@ -347,7 +347,7 @@
 		"innerColor": [215, 20, 26],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Truth Prevails",
-		"uniques": ["Gain [100] [Culture] <upon expending a [Great Person] unit> <(modified by game speed)>],
+		"uniques": ["Gain [100] [Culture] <upon expending a [Great Person] unit> <(modified by game speed)>"],
 		"cities": ["Prague","Brno","Ostrava","Plzeň","Olomouc","Ústí nad Labem","České Budějovice","Hradec Králové","Pardubice","Zlín","Havířov","Kladno","Most","Opava","Frýdek-Místek","Karviná","Jihlava","Teplice","Děčín"]
 	},
 {
