@@ -170,7 +170,7 @@
 		"requiredBuilding": "Shrine",
 		"requiredTech": "Philosophy"
 		//"specialistSlots": {"Artist": 1},
-		"uniques": ["[+2 Culture] <during a Golden Age>"]
+		"uniques": ["[+2 Culture] <during a Golden Age>", "Hidden when religion is disabled", "Destroyed when the city is captured"],
 	},
 {
 		"name": "Safari Park",
@@ -241,7 +241,7 @@
 		"requiredBuilding": "Shrine",
 		"maintenance": 0,
 		"hurryCostModifier": 25,
-		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"]
+		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"],
 		"requiredTech": "Philosophy"
 	},
 	{
