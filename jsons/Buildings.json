@@ -108,7 +108,7 @@
 		"maintenance": 0,
 		"cost": 100,
 		"specialistSlots": {"Artist": 1,"Engineer": 1,"Merchant": 1,"Scientist": 1},
-		"uniques": ["[+10] Unit Supply","+1 of each type of specialist"],
+		"uniques": ["[+10] Unit Supply"],
 		"requiredTech": "Mathematics",
 		"isNationalWonder": true
 
@@ -169,8 +169,8 @@
 		"faith": 2,
 		"requiredBuilding": "Shrine",
 		"requiredTech": "Philosophy"
-		"specialistSlots": {"Artist": 1},
-		"uniques": ["+1 Artist slot"]
+		//"specialistSlots": {"Artist": 1},
+		"uniques": ["[+2 Culture] <during a Golden Age>"]
 	},
 {
 		"name": "Safari Park",
@@ -264,10 +264,9 @@
 		"uniqueTo": "Iceland",
 		//"requiredResource": "Iron",
 		"hurryCostModifier": 0,
-		"specialistSlots": {"Engineer": 2},
-		"production": 5,
+		"specialistSlots": {"Engineer": 1},
+		"production": 8,
 		"maintenance": 3,
-		"uniques": ["+2 Engineer slots","No River requirements"],
 		"requiredTech": "Electricity"
 	},
 ]
