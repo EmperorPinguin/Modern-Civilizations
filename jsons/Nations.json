@@ -347,7 +347,7 @@
 		"innerColor": [215, 20, 26],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Truth Prevails",
-		"uniques": ["[+50 Culture] whenever a Great Person is expended"],
+		"uniques": ["Gain [100] [Culture] <upon expending a [Great Person] unit> <(modified by game speed)>],
 		"cities": ["Prague","Brno","Ostrava","Plzeň","Olomouc","Ústí nad Labem","České Budějovice","Hradec Králové","Pardubice","Zlín","Havířov","Kladno","Most","Opava","Frýdek-Místek","Karviná","Jihlava","Teplice","Děčín"]
 	},
 {
@@ -586,7 +586,7 @@
 		"innerColor": [255, 255, 255],
                 "favoredReligion": "Christianity",
 		"uniqueName": "The Vinland Sagas",
-		"uniques": ["Gain [20] [Culture] <upon discovering a Natural Wonder>"],
+		"uniques": ["Gain [30] [Culture] <upon discovering a Natural Wonder> <(modified by game speed)>"],
 		"cities": ["Reykjavík","Kópavogur","Hafnafjörður","Akureyri","Reykjanesbær","Garðabær","Mosfellsbær","Selfoss","Akranes","Seltjarnarnes",
 			"Vestmannaeyjar","Grindavik","Ísafjörður","Álftanes","Sauðárkrókur","Hveragerði","Egilsstaðir","Húsavík","Borgarnes","Sanderði"]
 	},
