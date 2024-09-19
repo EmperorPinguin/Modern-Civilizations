@@ -28,10 +28,9 @@
 		"name": "Statue",
 		"replaces": "Colosseum",
 		"uniqueTo": "North Korea",
-		"maintenance": 1,
-		"happiness": 2,
+		"maintenance": 2,
+		"happiness": 3,
 		"hurryCostModifier": 25,
-		"uniques": ["[+50]% Production when constructing [Worker] units [in this city]"],
 		"requiredTech": "Construction"
 	},
 {
