@@ -341,7 +341,7 @@
 		"uniqueTo": "Turkiye",
 		"unitType": "Missile",
 		"movement": 1,
-		"strength": 90,
+		"strength": 60,
 		"rangedStrength": 90,
 		"range": 8,
 		"cost": 150,
