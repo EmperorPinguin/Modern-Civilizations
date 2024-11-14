@@ -170,7 +170,7 @@
 		"requiredBuilding": "Shrine",
 		"requiredTech": "Philosophy"
 		//"specialistSlots": {"Artist": 1},
-		"uniques": ["[+2 Culture] <during a Golden Age>", "Hidden when religion is disabled", "Destroyed when the city is captured"],
+		"uniques": ["[+2 Culture] <during a Golden Age>", "Only available <when religion is enabled>", "Destroyed when the city is captured"],
 	},
 {
 		"name": "Safari Park",
@@ -241,7 +241,7 @@
 		"requiredBuilding": "Shrine",
 		"maintenance": 0,
 		"hurryCostModifier": 25,
-		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"],
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"],
 		"requiredTech": "Philosophy"
 	},
 	{
@@ -254,7 +254,7 @@
 		"happiness": 4,
 		"food": 4,
 		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city",
-			"[+100]% Natural religion spread [in this city]", "Hidden when religion is disabled", "Can only be built <in [Holy] cities>"],
+			"[+100]% Natural religion spread [in this city]", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true
 	},
