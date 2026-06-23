@@ -68,7 +68,7 @@
 		"innerColor": [2, 79, 162],
 		"favoredReligion": "Confucianism",
 		"uniqueName": "Juche",
-                "uniques": ["[+50]% Production when constructing [Nuclear Missile] units [in all cities]","Double quantity of [Uranium] produced"],
+                "uniques": ["[+50]% Production when constructing [Nuclear Missile] units [in all cities]","[+100]% [Uranium] resource production"],
 		"cities": ["Pyongyang","Hamhung","Namp'o","Sunch'on","Hungnam","Kaesong","Wonsan","Chongjin","Sariwon","Sinuiji","Haeju","Kanggye",
 			"Hyesan","Songnim","Manp'o","P'yongsong","Hyesan-dong","Hyesan-dong","Hongwon","Rajin","Ongjin","Kilju","Chaeryong-up",
 			"Anju","Hoeryong","Sungho I-tong","Changyong","Sunan","Hwangju-up"]
@@ -321,7 +321,7 @@
 		"innerColor": [254,197,12],
 		"favoredReligion": "Islam",
 		"uniqueName": "Nurly Zhol",
-		"uniques": ["[-50]% maintenance on road & railroads", "Double quantity of [Coal] produced"],
+		"uniques": ["[-50]% maintenance on road & railroads", "[+100]% [Coal] resource production"],
 		"cities": ["Astana","Karagandy","Shymkent","Taraz","Astana","Pavlodar","Ust-Kamenogorsk","Kyzyl-Orda","Semey",
 			"Aktobe","Kostanay","Petropavl","Oral","Atyrau","Temirtau","Aktau","Kokshetau","Rudnyy","Ekibastuz","Eretria","Taldykorgan","Zhezqazghan","Zhanaozen","Turkestan","Balqash","Sartkand","Baikonur","Kentau","Ridder",
 			"Qulsary","Shchuchnik","Stepnogorsk","Zyryanovsk","Aksu","Dzhetygara","Soran","Talghar"]
@@ -396,7 +396,7 @@
 		"innerColor": [255,215,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Slava Ukraïni",
-		"uniques": ["Double quantity of [Horses] produced","[-33]% Culture cost of natural border growth [in all cities connected to capital]","Roads connect tiles across rivers"],
+		"uniques": ["[+100]% [Horses] resource production","[-33]% Culture cost of natural border growth [in all cities connected to capital]","Roads connect tiles across rivers"],
 		"cities": [
 			"Kyiv","Kharkiv","Dnipropetrovsk","Odesa","Donetsk","Zaporizhia",
                   "Lviv","Kryvyi Rih","Mykolaiv","Mariupol","Luhansk","Makiivka","Simferopol",
@@ -449,7 +449,7 @@
 		"innerColor": [42, 82, 204],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Mineral Exports",
-		"uniques": ["[+100]% [Gold] from every [Gold Ore]","[+100]% [Gold] from every [Silver]","[+100]% [Gold] from every [Gems]","Double quantity of [Gold Ore] produced","Double quantity of [Silver] produced","Double quantity of [Gems] produced"],
+		"uniques": ["[+100]% [Gold] from every [Gold Ore]","[+100]% [Gold] from every [Silver]","[+100]% [Gold] from every [Gems]"],
 		"cities": ["Cape Town","Pretoria","Bloemfontein","Johannesburg","Durban","Gqeberha","Vereeniging","Soshanguve","East London","Pietermaritzburg"]
 	},
 {
